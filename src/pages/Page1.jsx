@@ -36,28 +36,45 @@ const generateRandomImage = () => {
   return images[randomIndex];
 };
 
-const Card = ({ text }) => {
+const fonts = [
+  { name: "주아체", className: "bmjua" },
+  { name: "지마켓산스체", className: "GmarketSansMedium" },
+  { name: "창원단감아삭체", className: "CWDangamAsac-Bold" },
+  { name: "HS새마을체", className: "HSSaemaul-Regular" },
+  { name: "망고보드 또박체", className: "MangoDdobak-B" },
+  { name: "에스코어 드림체", className: "S-CoreDream-3Light" }
+  // 다른 폰트들도 동일한 형식으로 추가
+];
+
+const generateRandomFont = () => {
+  const randomIndex = Math.floor(Math.random() * fonts.length);
+  return fonts[randomIndex];
+};
+
+const Card = ({ font }) => {
   const [hovered, setHovered] = useState(false);
   const [imageUrl] = useState(generateRandomImage()); // 카드가 생성될 때 랜덤 이미지를 선택
 
   return (
     <div
-      className="page1-card"
+      className={`page1-card ${font.className}`}
       onMouseEnter={() => setHovered(true)}
       onMouseLeave={() => setHovered(false)}>
-      <div className="page1-card-text">{text}</div>
+      <div className="page1-card-text">
+        {font.name}
+        <br />
+        Aa
+      </div>
       <img src={imageUrl} alt="Random" className="page1-card-image" />
     </div>
   );
 };
 
 const Page1 = () => {
-  const cards = new Array(9).fill("Aa");
-
   return (
     <div className="page1-card-container">
-      {cards.map((text, index) => (
-        <Card key={index} text={text} />
+      {fonts.map((font, index) => (
+        <Card key={index} font={font} />
       ))}
     </div>
   );

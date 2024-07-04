@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from "react-router-dom";
 import "../assets/scss/header.scss";
 import leftIcon from "../assets/img/svg/left-icon.svg";
 import rightIcon from "../assets/img/svg/right-icon.svg";
@@ -11,7 +12,9 @@ const Header = () => {
       <header id="header" role="banner">
         <div className="logo-container">
           <img src={leftIcon} alt="Left Icon" className="left-icon" />
-          <div className="logo">Add text</div>
+          <Link to="/" className="logo-link">
+            <div className="logo">Add text</div>
+          </Link>
           <img src={rightIcon} alt="Right Icon" className="right-icon" />
         </div>
         <nav>
