@@ -42,11 +42,11 @@ const Card = ({ text }) => {
 
   return (
     <div
-      className="card"
+      className="page1-card"
       onMouseEnter={() => setHovered(true)}
       onMouseLeave={() => setHovered(false)}>
-      <div className="card-text">{text}</div>
-      <img src={imageUrl} alt="Random" className="card-image" />
+      <div className="page1-card-text">{text}</div>
+      <img src={imageUrl} alt="Random" className="page1-card-image" />
     </div>
   );
 };
@@ -55,7 +55,7 @@ const Page1 = () => {
   const cards = new Array(9).fill("Aa");
 
   return (
-    <div className="card-container">
+    <div className="page1-card-container">
       {cards.map((text, index) => (
         <Card key={index} text={text} />
       ))}

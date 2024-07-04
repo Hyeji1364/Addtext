@@ -1,10 +1,12 @@
 import React, { useState } from "react";
-import { useNavigate } from "react-router-dom";
+import { useNavigate, useLocation } from "react-router-dom";
 import "../assets/scss/headerbody.scss";
 import bannerImage from "../assets/img/banner.jpg"; // 배너 이미지 임포트
 
 const HeaderBody = () => {
-  const [activePage, setActivePage] = useState(1);
+  const location = useLocation();
+  const currentPage = location.pathname.replace("/page", "") || 1;
+  const [activePage, setActivePage] = useState(Number(currentPage));
   const navigate = useNavigate();
 
   const handlePageClick = (pageNumber) => {
@@ -13,7 +15,7 @@ const HeaderBody = () => {
   };
 
   return (
-    <div id="header-body">
+    <div id={`header-body-page${activePage}`} className="header-body">
       <div className="content-container">
         <div className="search-container">
           <input

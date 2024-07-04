@@ -11,7 +11,7 @@ const Header = () => {
       <header id="header" role="banner">
         <div className="logo-container">
           <img src={leftIcon} alt="Left Icon" className="left-icon" />
-          <div className="logo">MyLogo</div>
+          <div className="logo">Add text</div>
           <img src={rightIcon} alt="Right Icon" className="right-icon" />
         </div>
         <nav>

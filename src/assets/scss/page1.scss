@@ -1,15 +1,18 @@
 /* src/assets/scss/page1.scss */
 
-.card-container {
+.page1-card-container {
   display: grid;
   grid-template-columns: repeat(3, 1fr); /* 한 줄에 3개씩 */
   gap: 20px;
   padding: 20px;
-  width: 82vw; /* 로그인 버튼 끝나는 지점에 맞춘 너비 */
-  margin-left: 8vw; /* 검색창과 동일한 margin-left */
+  width: 100%;
+  max-width: calc(100% - 170px); /* headerbody와 동일한 최대 너비 설정 */
+  padding: 0 85px; /* header와 동일한 좌우 패딩 */
+  margin: 0 auto; /* 가운데 정렬 */
+  box-sizing: border-box;
 }
 
-.card {
+.page1-card {
   width: 100%;
   height: 700px; /* 카드 높이 조정 */
   border-radius: 10px;
@@ -22,15 +25,14 @@
   justify-content: center;
   transition: transform 0.3s, box-shadow 0.3s;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* 기본 그림자 효과 */
-  margin-bottom: 20px;
 }
 
-.card:hover {
+.page1-card:hover {
   transform: scale(1.05);
   box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); /* 호버 시 그림자 효과 강화 */
 }
 
-.card-text {
+.page1-card-text {
   font-size: 36px; /* 텍스트 크기 조정 */
   font-weight: bold;
   color: inherit; /* 부모의 색상을 상속받도록 설정 */
@@ -39,7 +41,7 @@
   font-family: "BMJUA";
 }
 
-.card-image {
+.page1-card-image {
   width: 100%;
   height: 100%;
   object-fit: cover;
@@ -51,6 +53,6 @@
   z-index: 1; /* 텍스트 아래에 표시되도록 z-index 설정 */
 }
 
-.card:hover .card-image {
+.page1-card:hover .page1-card-image {
   opacity: 1;
 }

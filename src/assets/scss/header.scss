@@ -7,6 +7,8 @@
   background-color: #8ca9e7;
   color: #fff;
   font-family: "BMJUA";
+  padding: 0 85px; /* 좌우 패딩 추가 */
+  box-sizing: border-box;
   margin-bottom: 50px;
 }
 
@@ -16,14 +18,13 @@
 }
 
 #header .logo-container .left-icon {
-  margin-left: 85px;
   margin-right: 10px;
   width: 60px; /* 로고 크기 조정 */
   height: 60px; /* 로고 크기 조정 */
 }
 
 #header .logo {
-  font-size: 28px;
+  font-size: 2rem;
   font-weight: bold;
 }
 
@@ -49,6 +50,10 @@
   color: #333;
 }
 
+#header nav ul li a {
+  font-size: 1.2rem;
+}
+
 #header nav ul li a:hover {
   border-bottom: 2px solid #322;
 }
@@ -56,7 +61,6 @@
 #header .right-section {
   display: flex;
   align-items: center;
-  margin-right: 85px;
 }
 
 #header .right-section .dark-mode-icon {

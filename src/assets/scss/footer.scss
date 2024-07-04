@@ -3,17 +3,19 @@
 #footer {
   background-color: #333;
   color: #ccc;
-  padding: 20px 50px 20px 0;
+  padding: 20px 0; /* 패딩 조정 */
   font-family: "BMJUA";
+  margin-top: 50px; /* header와의 간격 맞추기 */
 }
 
 .footer-container {
   display: flex;
   justify-content: space-between;
   align-items: flex-start;
-  max-width: 1200px;
+  max-width: calc(100% - 170px); /* header와 동일한 너비 설정 */
   margin: 0 auto;
-  padding: 0 20px;
+  padding: 0 85px; /* header와 동일한 좌우 패딩 */
+  box-sizing: border-box;
 }
 
 .footer-left {
@@ -40,7 +42,7 @@
 
 .footer-right p {
   font-size: 14px;
-  margin: 5px 10px;
+  margin: 5px 0; /* 변경된 여백 설정 */
 }
 
 .footer-right a {
@@ -51,4 +53,44 @@
 
 .footer-right a:hover {
   text-decoration: underline;
+}
+
+/* 반응형 설정 */
+@media (max-width: 1200px) {
+  .footer-container {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    padding: 0 20px; /* 작은 화면에서는 좌우 패딩 줄이기 */
+  }
+
+  .footer-left,
+  .footer-right {
+    max-width: 100%;
+    margin-top: 20px;
+  }
+
+  .footer-right {
+    text-align: center;
+    margin-top: 10px;
+  }
+
+  .footer-right p {
+    margin: 5px 0;
+  }
+}
+
+@media (max-width: 768px) {
+  .footer-left h2 {
+    font-size: 20px;
+  }
+
+  .footer-left p,
+  .footer-right p {
+    font-size: 12px;
+  }
+
+  .footer-right a {
+    margin-left: 5px;
+  }
 }
