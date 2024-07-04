@@ -13,3 +13,7 @@ npm install axios
 npm install react-helmet-async
 npm install swiper
 npm install --save-dev @babel/plugin-proposal-private-property-in-object
+
+## build 배포
+
+npm run build

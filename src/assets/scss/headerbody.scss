@@ -16,6 +16,7 @@
   flex-direction: column;
   align-items: flex-start;
   width: 100%;
+  max-width: calc(100% - 170px); /* 최대 너비 설정 (85px * 2) */
 }
 
 .header-body .search-container {
@@ -37,6 +38,9 @@
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
   flex-grow: 1;
   margin-right: 20px; /* 검색 버튼과의 간격 */
+  max-width: calc(
+    100% - 130px - 20px
+  ); /* 검색 버튼 너비(130px)와 간격(20px) 포함한 최대 너비 */
 }
 
 .header-body .search-button {
@@ -107,11 +111,49 @@
 }
 
 /* Page 1 specific styles */
+#header-body-page1 .search-container {
+  width: calc(100% - 10px); /* Addtext와 동일한 너비 */
+  display: flex;
+  justify-content: space-between;
+}
+
 #header-body-page1 .search-input {
-  max-width: calc(100% - 150px); /* 검색 버튼과 간격 포함한 최대 너비 */
+  flex-grow: 1;
+  margin-right: 20px;
+}
+
+#header-body-page1 .search-button {
+  width: 130px; /* 검색 버튼 너비 */
 }
 
 /* Page 2 specific styles */
+#header-body-page2 .search-container {
+  width: calc(100% - 10px); /* Addtext와 동일한 너비 */
+  display: flex;
+  justify-content: space-between;
+}
+
 #header-body-page2 .search-input {
-  max-width: calc(100% - 300px); /* Page2의 검색 인풋 너비 */
+  flex-grow: 1;
+  margin-right: 20px;
+}
+
+#header-body-page2 .search-button {
+  width: 130px; /* 검색 버튼 너비 */
+}
+
+/* Page 3 specific styles */
+#header-body-page3 .search-container {
+  width: calc(100% - 10px); /* Addtext와 동일한 너비 */
+  display: flex;
+  justify-content: space-between;
+}
+
+#header-body-page3 .search-input {
+  flex-grow: 1;
+  margin-right: 20px;
+}
+
+#header-body-page3 .search-button {
+  width: 130px; /* 검색 버튼 너비 */
 }
