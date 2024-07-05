@@ -4,94 +4,118 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-  background-color: #8ca9e7;
-  color: #fff;
+  background-color: var(--pointColor);
+  color: var(--white);
   font-family: "BMJUA";
-  padding: 0 85px; /* 좌우 패딩 추가 */
+  padding: 0 85px;
+
+  /* 좌우 패딩 추가 */
   box-sizing: border-box;
   margin-bottom: 50px;
-}
 
-#header .logo-container {
-  display: flex;
-  align-items: center;
-}
+  .logo-container {
+    display: flex;
+    align-items: center;
 
-#header .logo-container .left-icon {
-  margin-right: 10px;
-  width: 60px; /* 로고 크기 조정 */
-  height: 60px; /* 로고 크기 조정 */
-}
+    .left-icon {
+      margin-right: 10px;
+      width: 60px;
 
-#header .logo {
-  font-size: 2rem;
-  font-weight: bold;
-}
+      /* 로고 크기 조정 */
+      height: 60px;
 
-#header .logo-link {
-  text-decoration: none; /* 링크의 기본 밑줄 제거 */
-  color: inherit; /* 부모의 색상 상속 */
-}
+      /* 로고 크기 조정 */
+    }
+  }
 
-#header .logo-container .right-icon {
-  margin-left: 10px;
-  width: 60px; /* 로고 크기 조정 */
-  height: 60px; /* 로고 크기 조정 */
-}
+  .logo {
+    font-size: 2rem;
+    font-weight: bold;
+  }
 
-#header nav {
-  flex-grow: 1;
-}
+  .logo-link {
+    text-decoration: none;
 
-#header nav ul {
-  list-style: none;
-  padding: 0;
-  margin: 0;
-  display: flex;
-}
+    /* 링크의 기본 밑줄 제거 */
+    color: inherit;
 
-#header nav ul li {
-  margin: 0 15px;
-  color: #333;
-}
+    /* 부모의 색상 상속 */
+  }
 
-#header nav ul li a {
-  font-size: 1.2rem;
-}
+  .logo-container .right-icon {
+    margin-left: 10px;
+    width: 60px;
 
-#header nav ul li a:hover {
-  border-bottom: 2px solid #322;
-}
+    /* 로고 크기 조정 */
+    height: 60px;
 
-#header .right-section {
-  display: flex;
-  align-items: center;
-}
+    /* 로고 크기 조정 */
+  }
 
-#header .right-section .dark-mode-icon {
-  margin-right: 15px;
-  width: 50px; /* 아이콘 크기 조정 */
-  height: 50px; /* 아이콘 크기 조정 */
-  cursor: pointer;
-}
+  nav {
+    flex-grow: 1;
 
-#header .right-section .login-button {
-  display: flex;
-  align-items: center;
-  background-color: #fff;
-  color: #333;
-  border: none;
-  border-radius: 20px;
-  padding: 3px 10px; /* 버튼 크기 조정 */
-  cursor: pointer;
-}
+    ul {
+      list-style: none;
+      padding: 0;
+      margin: 0;
+      display: flex;
 
-#header .right-section .login-button img {
-  width: 30px; /* 아이콘 크기 조정 */
-  height: 30px; /* 아이콘 크기 조정 */
-  margin-right: 5px;
-}
+      li {
+        margin: 0 15px;
+        color: var(--black300);
 
-#header .right-section .login-button span {
-  font-size: 16px;
+        a {
+          font-size: 1.2rem;
+
+          &:hover {
+            border-bottom: 2px solid #322;
+          }
+        }
+      }
+    }
+  }
+
+  .right-section {
+    display: flex;
+    align-items: center;
+
+    .dark-mode-icon {
+      margin-right: 15px;
+      width: 50px;
+
+      /* 아이콘 크기 조정 */
+      height: 50px;
+
+      /* 아이콘 크기 조정 */
+      cursor: pointer;
+    }
+
+    .login-button {
+      display: flex;
+      align-items: center;
+      background-color: var(--white);
+      color: var(--black300);
+      border: none;
+      border-radius: 20px;
+      padding: 3px 10px;
+
+      /* 버튼 크기 조정 */
+      cursor: pointer;
+
+      img {
+        width: 30px;
+
+        /* 아이콘 크기 조정 */
+        height: 30px;
+
+        /* 아이콘 크기 조정 */
+        margin-right: 5px;
+      }
+
+      span {
+        font-size: 16px;
+      }
+    }
+  }
 }

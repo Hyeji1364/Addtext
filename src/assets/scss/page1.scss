@@ -16,19 +16,19 @@
   border-radius: 10px;
   overflow: hidden;
   position: relative;
-  background-color: #333; /* 카드 배경색 */
-  color: #fff; /* 카드 텍스트 색상 */
+  background-color: var(--black300); /* 카드 배경색 */
+  color: var(--white); /* 카드 텍스트 색상 */
   display: flex;
   align-items: center;
   justify-content: center;
   text-align: center;
   transition: transform 0.3s, box-shadow 0.3s;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* 기본 그림자 효과 */
-}
 
-.page1-card:hover {
-  transform: scale(1.05);
-  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); /* 호버 시 그림자 효과 강화 */
+  &.hover {
+    transform: scale(1.05);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); /* 호버 시 그림자 효과 강화 */
+  }
 }
 
 .page1-card-text {

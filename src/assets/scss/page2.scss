@@ -15,8 +15,8 @@
   height: 200px; /* 카드 높이 조정 */
   border-radius: 10px;
   overflow: hidden;
-  background-color: #f0f0f0; /* 카드 배경색 */
-  color: #333; /* 카드 텍스트 색상 */
+  background-color: var(--cardBg); /* 카드 배경색 */
+  color: var(--black300); /* 카드 텍스트 색상 */
   display: flex;
   align-items: center;
   justify-content: center;
