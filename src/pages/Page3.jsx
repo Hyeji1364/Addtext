@@ -1,5 +1,6 @@
 import React from "react";
 import "../assets/scss/page3.scss";
+import likeIcon from "../assets/img/svg/like.svg"; // 좋아요 아이콘 임포트
 
 const Page3 = () => {
   const fonts = [
@@ -46,6 +47,8 @@ const Page3 = () => {
             <div className={`font-sample ${font.className}`}>
               {font.sampleText}
             </div>
+            <img src={likeIcon} alt="Like" className="font-like" />{" "}
+            {/* 좋아요 아이콘 추가 */}
           </div>
         ))}
       </div>

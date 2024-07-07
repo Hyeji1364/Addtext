@@ -1,5 +1,6 @@
 import React from "react";
 import "../assets/scss/page2.scss";
+import likeIcon from "../assets/img/svg/like.svg"; // 좋아요 아이콘 임포트
 
 const fonts = [
   {
@@ -70,6 +71,8 @@ const Card = ({ font, backgroundColor }) => {
         <br />
         Aa
       </div>
+      <img src={likeIcon} alt="Like" className="page2-card-like" />{" "}
+      {/* 좋아요 아이콘 추가 */}
     </div>
   );
 };

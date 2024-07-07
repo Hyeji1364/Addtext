@@ -14,6 +14,7 @@ import random9 from "../assets/img/random9.jpg";
 import random10 from "../assets/img/random10.jpg";
 import random11 from "../assets/img/random11.jpg";
 import random12 from "../assets/img/random12.jpg";
+import likeIcon from "../assets/img/svg/like.svg"; // 좋아요 아이콘
 
 // 이미지를 배열에 추가합니다.
 const images = [
@@ -67,6 +68,8 @@ const Card = ({ font }) => {
         Aa
       </div>
       <img src={imageUrl} alt="Random" className="page1-card-image" />
+      <img src={likeIcon} alt="Like" className="page1-card-like" />{" "}
+      {/* 좋아요 아이콘 추가 */}
     </div>
   );
 };

@@ -1,5 +1,3 @@
-/* src/assets/scss/page3.scss */
-
 .page3-container {
   display: flex;
   flex-direction: column;
@@ -26,6 +24,7 @@
   border-bottom: 2px solid var(--white700);
   padding-bottom: 20px;
   margin-bottom: 40px;
+  position: relative; /* like.svg 배치를 위해 position 설정 */
 }
 
 .font-name {
@@ -59,4 +58,12 @@
   }
 
   /* 다른 폰트 스타일도 동일한 방식으로 추가 */
+}
+
+.font-like {
+  position: absolute;
+  bottom: 10px;
+  right: 10px;
+  width: 24px;
+  height: 24px;
 }
