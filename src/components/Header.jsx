@@ -1,12 +1,20 @@
-import React from "react";
+import React, { useState } from "react";
 import { Link } from "react-router-dom";
 import "../assets/scss/header.scss";
 import leftIcon from "../assets/img/svg/left-icon.svg";
 import rightIcon from "../assets/img/svg/right-icon.svg";
-import darkModeIcon from "../assets/img/svg/sunny.svg";
+import sunnyIcon from "../assets/img/svg/sunny.svg";
+import nightIcon from "../assets/img/svg/night.svg";
 import loginIcon from "../assets/img/svg/login-button.svg";
 
 const Header = () => {
+  const [isDarkMode, setIsDarkMode] = useState(false);
+
+  const toggleDarkMode = () => {
+    document.body.classList.toggle("dark-mode");
+    setIsDarkMode(!isDarkMode);
+  };
+
   return (
     <>
       <header id="header" role="banner">
@@ -23,7 +31,7 @@ const Header = () => {
               <a href="#About">About</a>
             </li>
             <li>
-              <a href="#make">폰트제작</a>
+              <Link to="/makepage">폰트제작</Link>
             </li>
             <li>
               <a href="#share">디자인공유</a>
@@ -32,14 +40,15 @@ const Header = () => {
         </nav>
         <div className="right-section">
           <img
-            src={darkModeIcon}
+            src={isDarkMode ? nightIcon : sunnyIcon}
             alt="Dark Mode Icon"
             className="dark-mode-icon"
+            onClick={toggleDarkMode}
           />
-          <button className="login-button">
-            <img src={loginIcon} alt="Login Icon" />
+          <Link to="/login" className="login-button">
+            <img src={loginIcon} alt="Login Icon" className="login-icon" />
             <span>로그인</span>
-          </button>
+          </Link>
         </div>
       </header>
     </>

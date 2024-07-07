@@ -9,6 +9,8 @@ npm i sass
 npm i react-icons
 npm i react-spinners
 
+npm install react-modal
+
 npm install axios
 npm install react-helmet-async
 npm install swiper

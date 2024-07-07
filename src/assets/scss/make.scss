@@ -1,0 +1,40 @@
+.font-page {
+  padding: 20px;
+
+  .tabs {
+    display: flex;
+    margin-bottom: 20px;
+    font-family: "BMJUA";
+    margin-left: 120px;
+
+    .tab {
+      margin: 0 15px;
+      padding: 10px 10px;
+      cursor: pointer;
+      border-bottom: 2px solid transparent;
+      font-size: 1.2rem;
+
+      &.active {
+        border-bottom: 2px solid #000;
+        font-weight: bold;
+      }
+    }
+  }
+
+  .content {
+    text-align: center;
+    padding: 30px;
+    margin-top: 50px;
+
+    h2 {
+      font-family: "BMJUA";
+      font-size: 1.5rem;
+    }
+
+    p {
+      font-family: "BMJUA";
+      font-size: 1rem;
+      color: #999;
+    }
+  }
+}

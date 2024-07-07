@@ -60,6 +60,7 @@ const Card = ({ font }) => {
       className={`page1-card ${font.className}`}
       onMouseEnter={() => setHovered(true)}
       onMouseLeave={() => setHovered(false)}>
+      <div className="page1-card-overlay"></div> {/* 오버레이 추가 */}
       <div className="page1-card-text">
         {font.name}
         <br />
