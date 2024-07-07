@@ -1,6 +1,7 @@
-import React from "react";
+import React, { useState } from "react";
 import "../assets/scss/page3.scss";
-import likeIcon from "../assets/img/svg/like.svg"; // 좋아요 아이콘 임포트
+import likeIcon from "../assets/img/svg/like.svg"; // 기본 좋아요 아이콘
+import likeFullIcon from "../assets/img/svg/like-full.svg"; // 좋아요 클릭된 아이콘
 
 const Page3 = () => {
   const fonts = [
@@ -38,6 +39,14 @@ const Page3 = () => {
     // 다른 폰트들도 동일한 형식으로 추가
   ];
 
+  const [liked, setLiked] = useState(Array(fonts.length).fill(false));
+
+  const toggleLike = (index) => {
+    const newLiked = [...liked];
+    newLiked[index] = !newLiked[index];
+    setLiked(newLiked);
+  };
+
   return (
     <div className="page3-container">
       <div className="page3-content">
@@ -47,8 +56,12 @@ const Page3 = () => {
             <div className={`font-sample ${font.className}`}>
               {font.sampleText}
             </div>
-            <img src={likeIcon} alt="Like" className="font-like" />{" "}
-            {/* 좋아요 아이콘 추가 */}
+            <img
+              src={liked[index] ? likeFullIcon : likeIcon}
+              alt="Like"
+              className="font-like"
+              onClick={() => toggleLike(index)}
+            />
           </div>
         ))}
       </div>

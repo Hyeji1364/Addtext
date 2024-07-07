@@ -14,7 +14,8 @@ import random9 from "../assets/img/random9.jpg";
 import random10 from "../assets/img/random10.jpg";
 import random11 from "../assets/img/random11.jpg";
 import random12 from "../assets/img/random12.jpg";
-import likeIcon from "../assets/img/svg/like.svg"; // 좋아요 아이콘
+import likeIcon from "../assets/img/svg/like.svg"; // 기본 좋아요 아이콘
+import likeFullIcon from "../assets/img/svg/like-full.svg"; // 좋아요 클릭된 아이콘
 
 // 이미지를 배열에 추가합니다.
 const images = [
@@ -32,11 +33,6 @@ const images = [
   random12
 ];
 
-const generateRandomImage = () => {
-  const randomIndex = Math.floor(Math.random() * images.length);
-  return images[randomIndex];
-};
-
 const fonts = [
   { name: "주아체", className: "bmjua" },
   { name: "지마켓산스체", className: "GmarketSansMedium" },
@@ -44,15 +40,14 @@ const fonts = [
   { name: "HS새마을체", className: "HSSaemaul-Regular" },
   { name: "망고보드 또박체", className: "MangoDdobak-B" },
   { name: "에스코어 드림체", className: "S-CoreDream-3Light" }
-  // 다른 폰트들도 동일한 형식으로 추가
 ];
 
-const generateRandomFont = () => {
-  const randomIndex = Math.floor(Math.random() * fonts.length);
-  return fonts[randomIndex];
+const generateRandomImage = () => {
+  const randomIndex = Math.floor(Math.random() * images.length);
+  return images[randomIndex];
 };
 
-const Card = ({ font }) => {
+const Card = ({ font, index, liked, toggleLike }) => {
   const [hovered, setHovered] = useState(false);
   const [imageUrl] = useState(generateRandomImage()); // 카드가 생성될 때 랜덤 이미지를 선택
 
@@ -61,24 +56,42 @@ const Card = ({ font }) => {
       className={`page1-card ${font.className}`}
       onMouseEnter={() => setHovered(true)}
       onMouseLeave={() => setHovered(false)}>
-      <div className="page1-card-overlay"></div> {/* 오버레이 추가 */}
+      <div className="page1-card-overlay"></div>
       <div className="page1-card-text">
         {font.name}
         <br />
         Aa
       </div>
       <img src={imageUrl} alt="Random" className="page1-card-image" />
-      <img src={likeIcon} alt="Like" className="page1-card-like" />{" "}
-      {/* 좋아요 아이콘 추가 */}
+      <img
+        src={liked ? likeFullIcon : likeIcon}
+        alt="Like"
+        className="page1-card-like"
+        onClick={() => toggleLike(index)}
+      />
     </div>
   );
 };
 
 const Page1 = () => {
+  const [liked, setLiked] = useState(Array(fonts.length).fill(false));
+
+  const toggleLike = (index) => {
+    const newLiked = [...liked];
+    newLiked[index] = !newLiked[index];
+    setLiked(newLiked);
+  };
+
   return (
     <div className="page1-card-container">
       {fonts.map((font, index) => (
-        <Card key={index} font={font} />
+        <Card
+          key={index}
+          font={font}
+          index={index}
+          liked={liked[index]}
+          toggleLike={toggleLike}
+        />
       ))}
     </div>
   );

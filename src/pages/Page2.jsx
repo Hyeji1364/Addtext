@@ -1,6 +1,7 @@
-import React from "react";
+import React, { useState } from "react";
 import "../assets/scss/page2.scss";
-import likeIcon from "../assets/img/svg/like.svg"; // 좋아요 아이콘 임포트
+import likeIcon from "../assets/img/svg/like.svg"; // 기본 좋아요 아이콘
+import likeFullIcon from "../assets/img/svg/like-full.svg"; // 좋아요 클릭된 아이콘
 
 const fonts = [
   {
@@ -63,7 +64,7 @@ const colors = [
   "#4682B4"
 ];
 
-const Card = ({ font, backgroundColor }) => {
+const Card = ({ font, backgroundColor, liked, toggleLike, index }) => {
   return (
     <div className={`page2-card ${font.className}`} style={{ backgroundColor }}>
       <div className="page2-card-text">
@@ -71,13 +72,26 @@ const Card = ({ font, backgroundColor }) => {
         <br />
         Aa
       </div>
-      <img src={likeIcon} alt="Like" className="page2-card-like" />{" "}
+      <img
+        src={liked ? likeFullIcon : likeIcon}
+        alt="Like"
+        className="page2-card-like"
+        onClick={() => toggleLike(index)}
+      />{" "}
       {/* 좋아요 아이콘 추가 */}
     </div>
   );
 };
 
 const Page2 = () => {
+  const [liked, setLiked] = useState(Array(fonts.length).fill(false));
+
+  const toggleLike = (index) => {
+    const newLiked = [...liked];
+    newLiked[index] = !newLiked[index];
+    setLiked(newLiked);
+  };
+
   return (
     <div className="page2-card-container">
       {fonts.map((font, index) => (
@@ -85,6 +99,9 @@ const Page2 = () => {
           key={index}
           font={font}
           backgroundColor={colors[index % colors.length]}
+          liked={liked[index]}
+          toggleLike={toggleLike}
+          index={index}
         />
       ))}
     </div>
