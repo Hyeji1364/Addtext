@@ -1,3 +1,5 @@
+/* src/assets/scss/page2.scss */
+
 .page2-card-container {
   display: grid;
   grid-template-columns: repeat(5, 1fr); /* 한 줄에 5개씩 */
@@ -24,29 +26,29 @@
   transition: transform 0.3s, box-shadow 0.3s;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* 기본 그림자 효과 */
   position: relative; /* 좋아요 아이콘을 배치하기 위해 position을 relative로 설정 */
-}
 
-.page2-card:hover {
-  transform: scale(1.05);
-  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); /* 호버 시 그림자 효과 강화 */
-}
+  &:hover {
+    transform: scale(1.05);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); /* 호버 시 그림자 효과 강화 */
+  }
 
-.page2-card-text {
-  font-size: 24px; /* 텍스트 크기 조정 */
-  font-weight: bold;
-  color: inherit; /* 부모의 색상을 상속받도록 설정 */
-  position: relative; /* 텍스트를 가운데 배치 */
-  font-family: inherit; /* 부모의 폰트를 상속받도록 설정 */
-}
+  .page2-card-text {
+    font-size: 24px; /* 텍스트 크기 조정 */
+    font-weight: bold;
+    color: inherit; /* 부모의 색상을 상속받도록 설정 */
+    position: relative; /* 텍스트를 가운데 배치 */
+    font-family: inherit; /* 부모의 폰트를 상속받도록 설정 */
+  }
 
-.page2-card-like {
-  position: absolute;
-  bottom: 10px;
-  right: 10px;
-  width: 24px;
-  height: 24px;
-  z-index: 3; /* 가장 위에 표시되도록 z-index 설정 */
-  cursor: pointer; /* 커서 모양을 포인터로 변경 */
+  .page2-card-like {
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+    width: 24px;
+    height: 24px;
+    z-index: 3; /* 가장 위에 표시되도록 z-index 설정 */
+    cursor: pointer; /* 커서 모양을 포인터로 변경 */
+  }
 }
 
 /* 폰트별 스타일 적용 */
@@ -69,4 +71,27 @@
   font-family: "S-CoreDream-3Light", sans-serif;
 }
 
-/* 다른 폰트 스타일도 동일한 방식으로 추가 */
+/* 반응형 디자인 적용 */
+@media (max-width: 1200px) {
+  .page2-card-container {
+    grid-template-columns: repeat(4, 1fr); /* 한 줄에 4개씩 */
+  }
+}
+
+@media (max-width: 992px) {
+  .page2-card-container {
+    grid-template-columns: repeat(3, 1fr); /* 한 줄에 3개씩 */
+  }
+}
+
+@media (max-width: 768px) {
+  .page2-card-container {
+    grid-template-columns: repeat(2, 1fr); /* 한 줄에 2개씩 */
+  }
+}
+
+@media (max-width: 576px) {
+  .page2-card-container {
+    grid-template-columns: repeat(1, 1fr); /* 한 줄에 1개씩 */
+  }
+}
