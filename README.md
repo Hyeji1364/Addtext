@@ -22,4 +22,7 @@ npm run build
 
 
 ## 초기디자인
+__page1__
 ![image](https://github.com/Hyeji1364/addText/assets/161557112/f8bf43bf-f178-4102-b142-91f4df95ec83)
+
+
