@@ -19,3 +19,21 @@ npm install --save-dev @babel/plugin-proposal-private-property-in-object
 ## build 배포
 
 npm run build
+
+
+## 초기디자인
+### __page1__
+![image](https://github.com/Hyeji1364/addText/assets/161557112/f8bf43bf-f178-4102-b142-91f4df95ec83)
+hover하면 사진들이 변하고 배경화면이 확대되면서 폰트를 보여줍니다.
+<br>
+### __page2__
+![image](https://github.com/Hyeji1364/addText/assets/161557112/f37e72c2-8093-4742-a238-114d28c7564d)
+hover하면 카드가 확대되고 각 카드에는 폰트를 보여줍니다.
+<br>
+### __page3__
+![image](https://github.com/Hyeji1364/addText/assets/161557112/63942f7e-4d13-4642-8887-c2252e8a75cb)
+각 카드를 한줄 형태로 표현합니다.
+<br>
+### __login__
+![image](https://github.com/Hyeji1364/addText/assets/161557112/694d3bfb-e0fe-4df7-a62c-28f24a156846)
+헤더의 로그인 버튼을 클릭하면 간편 로그인 화면으로 이동합니다.
