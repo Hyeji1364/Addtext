@@ -1,11 +1,11 @@
 import React from "react";
-import ReactDOM from "react-dom/client";
-import "./assets/scss/style.scss";
-import App from "./App";
+import ReactDOM from "react-dom";
+import AppWrapper from "./App";
+import "./assets/scss/vars.scss"; // 글로벌 스타일
 
-const root = ReactDOM.createRoot(document.getElementById("root"));
-root.render(
+ReactDOM.render(
   <React.StrictMode>
-    <App />
-  </React.StrictMode>
+    <AppWrapper />
+  </React.StrictMode>,
+  document.getElementById("root")
 );
