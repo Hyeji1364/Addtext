@@ -73,12 +73,14 @@ const FontCard = ({ font }) => {
   }, [font.cssUrl]);
 
   return (
-    <div className={`font-card`} style={{ backgroundColor: randomCardColor }}>
+    <div
+      className={`font-card ${randomAnimation}`}
+      style={{ backgroundColor: randomCardColor }}>
       <div
         className="font-card-text"
         style={{ color: randomTextColor, fontFamily: fontClass }}>
-        <h2 className={randomAnimation}>{font.name}</h2>
-        <p className={randomAnimation}>{font.name_eng}</p>
+        <h2>{font.name}</h2>
+        <p>{font.name_eng}</p>
       </div>
       <div
         className="hover-background"

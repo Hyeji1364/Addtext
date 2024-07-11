@@ -23,7 +23,7 @@
     background-position: center;
     opacity: 0;
     transition: opacity 0.3s;
-    z-index: -1; // 배경이 텍스트 뒤에 오도록 설정
+    z-index: -1;
   }
 
   &:hover .hover-background {
@@ -31,80 +31,83 @@
   }
 
   &:hover {
-    transform: translateY(-10px) scale(1.05); // 호버 시 살짝 커지고 위로 이동
+    transform: translateY(-10px) scale(1.05);
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
   }
 
   .font-card-text {
+    z-index: 1;
+
+    h2,
+    p {
+      transition: transform 0.5s, font-size 0.5s;
+    }
+
     h2 {
-      font-size: 3rem; // 기본 텍스트 크기
+      font-size: 3rem;
       font-weight: bold;
       margin: 0;
-      transition: font-size 0.3s; // 폰트 크기 전환
     }
 
     p {
-      font-size: 2rem; // 기본 텍스트 크기
+      font-size: 2rem;
       font-weight: lighter;
       margin: 0;
-      transition: font-size 0.3s; // 폰트 크기 전환
     }
+  }
+
+  &:hover .font-card-text {
+    animation: animateText 0.5s forwards;
   }
 
   @keyframes animateText1 {
     0% {
-      font-size: 2rem;
+      transform: scale(1);
     }
     50% {
-      font-size: 5rem;
+      transform: scale(1.5);
     }
     100% {
-      font-size: 2rem;
+      transform: scale(1);
     }
   }
 
   @keyframes animateText2 {
     0% {
-      font-size: 1.5rem;
+      transform: scale(1);
     }
     50% {
-      font-size: 4rem;
+      transform: scale(1.3);
     }
     100% {
-      font-size: 1.5rem;
+      transform: scale(1);
     }
   }
 
   @keyframes animateText3 {
     0% {
-      font-size: 1.5rem;
+      transform: scale(1);
       letter-spacing: normal;
     }
     50% {
-      font-size: 4rem;
+      transform: scale(1.5);
       letter-spacing: 0.5em;
     }
     100% {
-      font-size: 1.5rem;
+      transform: scale(1);
       letter-spacing: normal;
     }
   }
 
-  .animateText1 {
-    &:hover {
-      animation: animateText1 0.5s forwards;
-    }
+  .animateText1:hover .font-card-text {
+    animation: animateText1 0.5s forwards;
   }
 
-  .animateText2 {
-    &:hover {
-      animation: animateText2 0.5s forwards;
-    }
+  .animateText2:hover .font-card-text {
+    animation: animateText2 0.5s forwards;
   }
 
-  .animateText3 {
-    &:hover {
-      animation: animateText3 0.5s forwards;
-    }
+  .animateText3:hover .font-card-text {
+    animation: animateText3 0.5s forwards;
   }
 }
