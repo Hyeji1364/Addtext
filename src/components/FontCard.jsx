@@ -18,30 +18,32 @@ const randomImages = [
   "/assets/img/random12.jpg"
 ];
 
-const FontCard = ({ font }) => {
+const FontCard = ({ font, styleIndex }) => {
   const [fontClass, setFontClass] = useState(null);
   const cardColors = [
-    "#FF6347",
-    "#FFA07A",
-    "#FFD700",
-    "#ADFF2F",
-    "#7FFF00",
-    "#32CD32",
-    "#00FF7F",
-    "#00FA9A",
-    "#00CED1",
-    "#4682B4",
-    "#1E90FF",
-    "#6495ED",
-    "#8A2BE2",
-    "#DA70D6",
-    "#FF00FF"
+    "#0066FF",
+    "#FFF0F5", // 라벤더블러쉬
+    "#9370DB", // 미디엄퍼플
+    "#FFDAB9", //피치퍼프
+    "#FFEBCD",
+    "#FFC0CB",
+    "#87CEFA",
+    "#ADD8E6",
+    "#216ad6",
+    "#e1eeec",
+    "#FA8072", // 샐몬
+    "#393939",
+    "87CEFA", // 라이트스카이블루
+    "DEB887", // 벌리우드
+    "D8BFD8" // 디스틀(라벤더)
   ];
-  const textColors = ["#FFFFFF", "#000000"];
+  const textColors = {
+    "#FFFF00": "#000000", // 배경이 노란색일 때 텍스트 색상을 어둡게 설정
+    default: "#FFFFFF" // 기본 텍스트 색상
+  };
   const randomCardColor =
     cardColors[Math.floor(Math.random() * cardColors.length)];
-  const randomTextColor =
-    textColors[Math.floor(Math.random() * textColors.length)];
+  const textColor = textColors[randomCardColor] || textColors.default;
   const randomAnimation =
     animations[Math.floor(Math.random() * animations.length)];
   const randomImage =
@@ -74,13 +76,13 @@ const FontCard = ({ font }) => {
 
   return (
     <div
-      className={`font-card ${randomAnimation}`}
+      className={`font-card style${styleIndex}`}
       style={{ backgroundColor: randomCardColor }}>
       <div
         className="font-card-text"
-        style={{ color: randomTextColor, fontFamily: fontClass }}>
-        <h2>{font.name}</h2>
-        <p>{font.name_eng}</p>
+        style={{ color: textColor, fontFamily: fontClass }}>
+        <h2 data-content={font.name}>{font.name}</h2>
+        <p data-content={font.name_eng}>{font.name_eng}</p>
       </div>
       <div
         className="hover-background"

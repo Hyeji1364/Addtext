@@ -32,7 +32,7 @@ const FontGallery = () => {
         />
       </div>
       {filteredFonts.map((font, index) => (
-        <FontCard key={index} font={font} />
+        <FontCard key={index} font={font} styleIndex={index % 5} />
       ))}
     </div>
   );
