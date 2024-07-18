@@ -22,7 +22,10 @@ const FontGallery = () => {
   );
 
   return (
-    <div className="font-gallery">
+    <div className="font-gallery" id="wrap">
+      <div className="font-title">
+        <h1>Explore Fontworld</h1>
+      </div>
       <div className="search-bar">
         <input
           type="text"
@@ -31,9 +34,11 @@ const FontGallery = () => {
           onChange={handleSearchChange}
         />
       </div>
-      {filteredFonts.map((font, index) => (
-        <FontCard key={index} font={font} styleIndex={index % 5} />
-      ))}
+      <div className="font-wrap">
+        {filteredFonts.map((font, index) => (
+          <FontCard key={index} font={font} />
+        ))}
+      </div>
     </div>
   );
 };

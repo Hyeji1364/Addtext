@@ -1,11 +1,12 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import AppWrapper from "./App";
-import "./assets/scss/vars.scss"; // 글로벌 스타일
+import App from "./App";
+import "./assets/scss/resets.scss";
+import "./assets/scss/style.scss";
 
 ReactDOM.render(
   <React.StrictMode>
-    <AppWrapper />
+    <App />
   </React.StrictMode>,
   document.getElementById("root")
 );

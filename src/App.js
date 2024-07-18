@@ -5,7 +5,7 @@ import {
   Routes,
   useLocation
 } from "react-router-dom";
-import FontGallery from "./pages/FontGallery";
+import FontGallery from "./components/FontGallery";
 
 function App() {
   return (

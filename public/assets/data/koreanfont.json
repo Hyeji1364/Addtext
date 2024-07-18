@@ -5,7 +5,8 @@
     "weight": ["300", "500", "700"],
     "link": "https://corp.gmarket.com/",
     "git": "https://github.com/wefonts/gmarket",
-    "cssUrl": "https://raw.githubusercontent.com/wefonts/gmarket/main/gmarket.css"
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/gmarket/main/gmarket.css",
+    "style": "s1"
   },
   {
     "name": "롯데리아 촵땡겨체",
@@ -13,7 +14,8 @@
     "weight": ["normal"],
     "link": "https://www.lotteriafont.com/",
     "git": "https://github.com/wefonts/lotteriaChab",
-    "cssUrl": "https://raw.githubusercontent.com/wefonts/lotteriaChab/main/lotteriaChab.css"
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/lotteriaChab/main/lotteriaChab.css",
+    "style": "s9"
   },
   {
     "name": "롯데리아 딱붙어체",
@@ -21,7 +23,8 @@
     "weight": ["normal"],
     "link": "https://www.lotteriafont.com/",
     "git": "https://github.com/wefonts/lotteriaDdag",
-    "cssUrl": "https://raw.githubusercontent.com/wefonts/lotteriaDdag/main/lotteriaDdag.css"
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/lotteriaDdag/main/lotteriaDdag.css",
+    "style": "s10"
   },
   {
     "name": "티몬 몬소리체",
@@ -29,7 +32,8 @@
     "weight": ["normal"],
     "link": "https://brunch.co.kr/@creative/32",
     "git": "https://github.com/wefonts/tmon",
-    "cssUrl": "https://raw.githubusercontent.com/wefonts/tmon/main/tmon.css"
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/tmon/main/tmon.css",
+    "style": "s3"
   },
   {
     "name": "더잠실체",

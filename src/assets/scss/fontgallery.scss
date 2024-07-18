@@ -1,20 +1,7 @@
 .font-gallery {
-  display: grid;
-  gap: 20px; // 카드 사이의 간격을 설정
-  padding: 80px 20px 20px 20px; // 검색바 위치에 대한 여백 추가
-  justify-items: stretch;
-  background-color: #000; // 배경을 블랙으로 설정
-  box-sizing: border-box; // 요소의 너비와 높이 계산 방식 설정
-
-  grid-template-columns: repeat(3, 1fr); // 기본적으로 한 줄에 3개씩
-
-  @media (max-width: 1200px) {
-    grid-template-columns: repeat(2, 1fr); // 화면 크기가 작아지면 한 줄에 2개씩
-  }
-
-  @media (max-width: 768px) {
-    grid-template-columns: 1fr; // 화면 크기가 더 작아지면 한 줄에 1개씩
-  }
+  padding: 80px 20px 20px 20px;
+  background-color: #000;
+  box-sizing: border-box;
 
   .search-bar {
     position: fixed;
@@ -39,6 +26,29 @@
         border-color: #007bff;
         box-shadow: 0 2px 8px rgba(0, 123, 255, 0.3);
       }
+    }
+  }
+
+  .font-wrap {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(500px, 1fr));
+    grid-auto-rows: 1fr;
+    gap: 20px;
+    padding: 1rem;
+  }
+
+  .font-title {
+    width: 100%;
+    text-align: center;
+
+    h1 {
+      background-color: #fff;
+      display: inline-block;
+      margin: 0 auto;
+      width: 300px;
+      margin: 30px;
+      border-radius: 40px;
+      font-weight: 100;
     }
   }
 }
