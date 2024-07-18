@@ -31,8 +31,88 @@ const FontCard = ({ font }) => {
 
   return (
     <div className={`font ${font.style}`} style={{ fontFamily: fontClass }}>
-      <span>{font.name}</span>
-      <span>{font.name_eng}</span>
+      {font.style === "s1" && (
+        <>
+          <span>{font.name}</span>
+          <span>{font.name}</span>
+          <span>{font.name_eng}</span>
+        </>
+      )}
+      {font.style === "s2" && (
+        <>
+          <span>{font.name}</span>
+          <span>{font.name_eng}</span>
+        </>
+      )}
+      {font.style === "s3" && (
+        <>
+          <span>{font.name}</span>
+          <span>{font.name_eng}</span>
+        </>
+      )}
+      {font.style === "s4" && (
+        <>
+          <span>{font.name}</span>
+          <span>{font.name_eng}</span>
+        </>
+      )}
+      {font.style === "s5" && (
+        <>
+          <span>{font.name}</span>
+          <span>{font.name}</span>
+          <span>{font.name_eng}</span>
+        </>
+      )}
+      {font.style === "s6" && (
+        <>
+          <span>{font.name}</span>
+          <span>{font.name_eng}</span>
+        </>
+      )}
+      {font.style === "s7" && (
+        <>
+          <span>{font.name}</span>
+          <span>{font.name}</span>
+          <span>{font.name_eng}</span>
+        </>
+      )}
+      {font.style === "s8" && (
+        <>
+          <span>{font.name}</span>
+          <span>{font.name}</span>
+          <span>{font.name_eng}</span>
+        </>
+      )}
+      {font.style === "s9" && (
+        <>
+          <span>{font.name}</span>
+          <span>{font.name_eng}</span>
+        </>
+      )}
+      {font.style === "s10" && (
+        <>
+          <span>{font.name}</span>
+          <span>{font.name}</span>
+          <span>{font.name_eng}</span>
+          <span>{font.name_eng}</span>
+        </>
+      )}
+      {font.style === "s11" && (
+        <>
+          <span>{font.name}</span>
+          <span>{font.name_eng}</span>
+          <span>{font.name}</span>
+          <span>{font.name_eng}</span>
+        </>
+      )}
+      {font.style === "s12" && (
+        <>
+          <span>{font.name}</span>
+          <span>{font.name_eng}</span>
+          <span>{font.name}</span>
+          <span>{font.name_eng}</span>
+        </>
+      )}
     </div>
   );
 };

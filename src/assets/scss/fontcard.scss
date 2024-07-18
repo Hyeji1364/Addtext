@@ -11,12 +11,16 @@
     background-color: #0460f5;
     color: #fff;
     font-size: 4vw;
+
+    span {
+      display: block;
+    }
   }
 
   &.s2 {
     background-color: #f397f9;
     color: #fff;
-    font-size: 11vw;
+    font-size: 6vw;
     line-height: 0.7;
     text-transform: capitalize;
     text-align: center;
@@ -60,13 +64,13 @@
   &.s5 {
     background-color: #ffefe5;
     color: #1fc8a9;
-    font-size: 5vw;
+    font-size: 3vw;
     line-height: 0.7;
     text-transform: capitalize;
     text-align: center;
 
     span:first-child {
-      font-weight: 100;
+      font-weight: 200;
       margin-bottom: 50px;
     }
 
@@ -84,7 +88,7 @@
   &.s6 {
     background-color: #b3e0e0;
     color: #f6fcfc;
-    font-size: 6vw;
+    font-size: 4vw;
     line-height: 0.7;
     text-transform: capitalize;
     text-align: center;
@@ -110,7 +114,7 @@
   &.s7 {
     background-color: #9ab79a;
     color: #fdff50;
-    font-size: 6vw;
+    font-size: 4vw;
     line-height: 0.7;
     text-transform: capitalize;
     text-align: center;
@@ -121,7 +125,7 @@
 
     span:nth-child(2) {
       font-weight: 500;
-      font-size: 3vw;
+      font-size: 2vw;
       margin-bottom: 50px;
     }
   }
@@ -162,7 +166,6 @@
   &.s9 {
     background-color: #e0e7fa;
     color: #649ccb;
-    font-size: 1.5vw;
     line-height: 0.7;
     text-transform: capitalize;
     text-align: center;
@@ -179,7 +182,7 @@
       margin-bottom: 50px;
       transform: scaleY(1.5);
       transform: scaleX(1.2);
-      font-size: 5vw;
+      font-size: 2vw;
       transition: transform 0.3s ease;
     }
 

@@ -41,7 +41,8 @@
     "weight": ["100", "300", "400", "500", "700", "800"],
     "link": "https://company.lottemart.com/company/font_jamsil.asp",
     "git": "https://github.com/wefonts/theJamsil",
-    "cssUrl": "https://raw.githubusercontent.com/wefonts/theJamsil/main/theJamsil.css"
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/theJamsil/main/theJamsil.css",
+    "style": "s4"
   },
   {
     "name": "mapo배낭여행체",
@@ -49,7 +50,8 @@
     "weight": ["normal"],
     "link": "https://www.mapo.go.kr/site/main/content/mapo04010201",
     "git": "https://github.com/wefonts/backPacking",
-    "cssUrl": "https://raw.githubusercontent.com/wefonts/backPacking/main/backPacking.css"
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/backPacking/main/backPacking.css",
+    "style": "s6"
   },
   {
     "name": "창원단감아삭체",
@@ -57,7 +59,8 @@
     "weight": ["normal"],
     "link": "https://www.changwon.go.kr/cwportal/depart/11071/11079/13531.web",
     "git": "https://github.com/wefonts/dangamAsac",
-    "cssUrl": "https://raw.githubusercontent.com/wefonts/dangamAsac/main/dangamAsac.css"
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/dangamAsac/main/dangamAsac.css",
+    "style": "s11"
   },
   {
     "name": "쿠키런체",
@@ -65,7 +68,8 @@
     "weight": ["400", "700", "900"],
     "link": "https://www.cookierunfont.com/#section7",
     "git": "https://github.com/wefonts/cookieRun",
-    "cssUrl": "https://raw.githubusercontent.com/wefonts/cookieRun/main/cookieRun.css"
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/cookieRun/main/cookieRun.css",
+    "style": "s7"
   },
   {
     "name": "에스코어드림체",
@@ -73,7 +77,8 @@
     "weight": ["100", "200", "300", "400", "500", "600", "700", "800", "900"],
     "link": "https://s-core.co.kr/company/font2/",
     "git": "https://github.com/wefonts/scoreDream",
-    "cssUrl": "https://raw.githubusercontent.com/wefonts/scoreDream/main/scoreDream.css"
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/scoreDream/main/scoreDream.css",
+    "style": "s5"
   },
   {
     "name": "을유1945체",
@@ -81,7 +86,8 @@
     "weight": ["400", "600"],
     "link": "https://github.com/websfont/eulyoo1945",
     "git": "https://github.com/wefonts/eulyoo1945",
-    "cssUrl": "https://raw.githubusercontent.com/wefonts/eulyoo1945/main/eulyoo1945.css"
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/eulyoo1945/main/eulyoo1945.css",
+    "style": "s12"
   },
   {
     "name": "땅스부대찌개",
@@ -89,7 +95,8 @@
     "weight": ["300", "500", "700"],
     "link": "https://tsbudae.com/brand/?c=72",
     "git": "https://github.com/wefonts/budaeJjigae",
-    "cssUrl": "https://raw.githubusercontent.com/wefonts/budaeJjigae/main/budaeJjigae.css"
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/budaeJjigae/main/budaeJjigae.css",
+    "style": "s8"
   },
   {
     "name": "심경하체",
@@ -97,7 +104,8 @@
     "weight": ["normal"],
     "link": "https://github.com/websfont/simKyungHa",
     "git": "https://github.com/wefonts/simKyungHa",
-    "cssUrl": "https://raw.githubusercontent.com/wefonts/simKyungHa/main/simKyungHa.css"
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/simKyungHa/main/simKyungHa.css",
+    "style": "s10"
   },
   {
     "name": "전화선체",
@@ -105,7 +113,8 @@
     "weight": ["normal"],
     "link": "https://github.com/websfont/jeonHwaSeon",
     "git": "https://github.com/wefonts/jeonHwaSeon",
-    "cssUrl": "https://raw.githubusercontent.com/wefonts/jeonHwaSeon/main/jeonHwaSeon.css"
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/jeonHwaSeon/main/jeonHwaSeon.css",
+    "style": "s2"
   },
   {
     "name": "읏찬체",
