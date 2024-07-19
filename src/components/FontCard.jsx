@@ -47,6 +47,8 @@ const FontCard = ({ font }) => {
       {font.style === "s3" && (
         <>
           <span>{font.name}</span>
+          <span>{font.name}</span>
+          <span>{font.name_eng}</span>
           <span>{font.name_eng}</span>
         </>
       )}
@@ -109,6 +111,61 @@ const FontCard = ({ font }) => {
         <>
           <span>{font.name}</span>
           <span>{font.name_eng}</span>
+          <span>{font.name}</span>
+          <span>{font.name_eng}</span>
+        </>
+      )}
+      {font.style === "s13" && (
+        <>
+          <span>{font.name}</span>
+          <span>{font.name_eng}</span>
+          <span>{font.name}</span>
+          <span>{font.name_eng}</span>
+        </>
+      )}
+      {font.style === "s14" && (
+        <>
+          <span>{font.name}</span>
+          <span>{font.name_eng}</span>
+          <span>{font.name}</span>
+        </>
+      )}
+      {font.style === "s15" && (
+        <>
+          <span>{font.name}</span>
+          <span>{font.name_eng}</span>
+          <span>{font.name}</span>
+        </>
+      )}
+      {font.style === "s16" && (
+        <>
+          <span>{font.name}</span>
+          <span>{font.name_eng}</span>
+          <span>{font.name_eng}</span>
+          <span>{font.name}</span>
+        </>
+      )}
+      {font.style === "s17" && (
+        <>
+          <span>{font.name}</span>
+          <span>{font.name_eng}</span>
+        </>
+      )}
+      {font.style === "s18" && (
+        <>
+          <span>{font.name}</span>
+          <span>{font.name_eng}</span>
+          <span>{font.name}</span>
+        </>
+      )}
+      {font.style === "s19" && (
+        <>
+          <span>{font.name}</span>
+          <span>{font.name_eng}</span>
+        </>
+      )}
+      {font.style === "s20" && (
+        <>
           <span>{font.name}</span>
           <span>{font.name_eng}</span>
         </>

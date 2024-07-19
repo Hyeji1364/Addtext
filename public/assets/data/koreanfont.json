@@ -122,7 +122,8 @@
     "weight": ["normal"],
     "link": "https://github.com/websfont/okChan",
     "git": "https://github.com/wefonts/okChan",
-    "cssUrl": "https://raw.githubusercontent.com/wefonts/okChan/main/okChan.css"
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/okChan/main/okChan.css",
+    "style": "s1"
   },
   {
     "name": "읏뚱체",
@@ -130,7 +131,8 @@
     "weight": ["normal"],
     "link": "https://github.com/websfont/okDdung",
     "git": "https://github.com/wefonts/okDdung",
-    "cssUrl": "https://raw.githubusercontent.com/wefonts/okDdung/main/okDdung.css"
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/okDdung/main/okDdung.css",
+    "style": "s9"
   },
   {
     "name": "읏궁체",
@@ -138,7 +140,8 @@
     "weight": ["normal"],
     "link": "https://github.com/websfont/okGung",
     "git": "https://github.com/wefonts/okGung",
-    "cssUrl": "https://raw.githubusercontent.com/wefonts/okGung/main/okGung.css"
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/okGung/main/okGung.css",
+    "style": "s8"
   },
   {
     "name": "여기어때 잘난체",
@@ -146,7 +149,8 @@
     "weight": ["normal"],
     "link": "https://gccompany.co.kr/font",
     "git": "https://github.com/wefonts/jalnan",
-    "cssUrl": "https://raw.githubusercontent.com/wefonts/jalnan/main/jalnan.css"
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/jalnan/main/jalnan.css",
+    "style": "s3"
   },
   {
     "name": "비씨카드체",
@@ -154,7 +158,8 @@
     "weight": ["300", "700"],
     "link": "https://paybooc.co.kr/app/paybooc/RPastEventDetail.do?evntNo=2020040025",
     "git": "https://github.com/wefonts/bcCard",
-    "cssUrl": "https://raw.githubusercontent.com/wefonts/bcCard/main/bcCard.css"
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/bcCard/main/bcCard.css",
+    "style": "s4"
   },
   {
     "name": "페이북체",
@@ -162,7 +167,8 @@
     "weight": ["300", "500", "700", "800"],
     "link": "https://paybooc.co.kr/app/paybooc/RPastEventDetail.do?evntNo=2020040025",
     "git": "https://github.com/wefonts/payBooc",
-    "cssUrl": "https://raw.githubusercontent.com/wefonts/payBooc/main/payBooc.css"
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/payBooc/main/payBooc.css",
+    "style": "s5"
   },
   {
     "name": "넥센 타이어체",
@@ -170,7 +176,8 @@
     "weight": ["400", "700"],
     "link": "https://www.nexentire.com/kr/communication/download/font/index.php",
     "git": "https://github.com/wefonts/nexenTire",
-    "cssUrl": "https://raw.githubusercontent.com/wefonts/nexenTire/main/nexenTire.css"
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/nexenTire/main/nexenTire.css",
+    "style": "s10"
   },
   {
     "name": "엄마까투리체",
@@ -178,7 +185,8 @@
     "weight": ["normal"],
     "link": "https://www.andong.go.kr/portal/contents.do?mId=0301030500",
     "git": "https://github.com/wefonts/katuri",
-    "cssUrl": "https://raw.githubusercontent.com/wefonts/katuri/main/katuri.css"
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/katuri/main/katuri.css",
+    "style": "s1"
   },
   {
     "name": "월영교체",
@@ -186,7 +194,8 @@
     "weight": ["normal"],
     "link": "https://www.andong.go.kr/portal/contents.do?mId=0301030500",
     "git": "https://github.com/wefonts/wolyeonggyo",
-    "cssUrl": "https://raw.githubusercontent.com/wefonts/wolyeonggyo/main/wolyeonggyo.css"
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/wolyeonggyo/main/wolyeonggyo.css",
+    "style": "s8"
   },
   {
     "name": "미원체",
@@ -194,7 +203,8 @@
     "weight": ["normal"],
     "link": "https://www.miwon.co.kr/brand-story/miwon-font/",
     "git": "https://github.com/wefonts/miwon",
-    "cssUrl": "https://raw.githubusercontent.com/wefonts/miwon/main/miwon.css"
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/miwon/main/miwon.css",
+    "style": "s18"
   },
   {
     "name": "lineSeed체",
@@ -202,7 +212,8 @@
     "weight": ["100", "400", "700"],
     "link": "https://seed.line.me/index_kr.html",
     "git": "https://github.com/wefonts/lineseed",
-    "cssUrl": "https://raw.githubusercontent.com/wefonts/lineseed/main/lineSeed.css"
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/lineseed/main/lineSeed.css",
+    "style": "s4"
   },
   {
     "name": "부크크 고딕체",
@@ -210,7 +221,8 @@
     "weight": ["300", "700"],
     "link": "https://bookk.co.kr/font",
     "git": "https://github.com/wefonts/bookkGothic",
-    "cssUrl": "https://raw.githubusercontent.com/wefonts/bookkGothic/main/bookkGothic.css"
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/bookkGothic/main/bookkGothic.css",
+    "style": "s16"
   },
   {
     "name": "부크크 명조체",
@@ -218,7 +230,8 @@
     "weight": ["400", "700"],
     "link": "https://bookk.co.kr/font",
     "git": "https://github.com/wefonts/bookkMyungjo",
-    "cssUrl": "https://raw.githubusercontent.com/wefonts/bookkMyungjo/main/bookkMyungjo.css"
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/bookkMyungjo/main/bookkMyungjo.css",
+    "style": "s5"
   },
   {
     "name": "이사만루체",
@@ -226,7 +239,8 @@
     "weight": ["300", "500", "700"],
     "link": "https://www.gonggames.com/#firstPage/2",
     "git": "https://github.com/wefonts/esaManru",
-    "cssUrl": "https://raw.githubusercontent.com/wefonts/esaManru/main/esaManru.css"
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/esaManru/main/esaManru.css",
+    "style": "s4"
   },
   {
     "name": "광양감동체",
@@ -234,7 +248,8 @@
     "weight": ["400", "700"],
     "link": "https://gwangyang.go.kr/menu.es?mid=a11303090200",
     "git": "https://github.com/wefonts/gwangyangTouching",
-    "cssUrl": "https://raw.githubusercontent.com/wefonts/gwangyangTouching/main/gwangyangTouching.css"
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/gwangyangTouching/main/gwangyangTouching.css",
+    "style": "s6"
   },
   {
     "name": "이서윤체",
@@ -242,7 +257,8 @@
     "weight": ["normal"],
     "link": "https://github.com/websfont/leeSeoYun",
     "git": "https://github.com/wefonts/leeSeoYun",
-    "cssUrl": "https://raw.githubusercontent.com/wefonts/leeSeoYun/main/leeSeoYun.css"
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/leeSeoYun/main/leeSeoYun.css",
+    "style": "s14"
   },
   {
     "name": "마포애민체",
@@ -250,7 +266,8 @@
     "weight": ["normal"],
     "link": "https://www.mapo.go.kr/site/main/content/mapo04010201",
     "git": "https://github.com/wefonts/mapoAgape",
-    "cssUrl": "https://raw.githubusercontent.com/wefonts/mapoAgape/main/mapoAgape.css"
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/mapoAgape/main/mapoAgape.css",
+    "style": "s18"
   },
   {
     "name": "온글잎 뉴무궁체",
@@ -258,7 +275,8 @@
     "weight": ["normal"],
     "link": "https://www.ownglyph.com/trial/a2f8f38a-a872-44e2-a1ab-290a689c5c6c",
     "git": "https://github.com/wefonts/OngleapNewMugungche/tree/main",
-    "cssUrl": "https://raw.githubusercontent.com/wefonts/OngleapNewMugungche/main/newmugungche.css"
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/OngleapNewMugungche/main/newmugungche.css",
+    "style": "s17"
   },
   {
     "name": "온글잎 누카",
@@ -266,7 +284,8 @@
     "weight": ["normal"],
     "link": "https://www.ownglyph.com/trial/c87740c8-38da-4030-83cf-668892c685b0",
     "git": "https://github.com/wefonts/OngleapNuka/tree/main",
-    "cssUrl": "https://raw.githubusercontent.com/wefonts/OngleapNuka/main/OngleapNuka.css"
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/OngleapNuka/main/OngleapNuka.css",
+    "style": "s16"
   },
   {
     "name": "온글잎 꽃내체",
@@ -274,7 +293,8 @@
     "weight": ["normal"],
     "link": "https://www.ownglyph.com/trial/512d058a-a9dc-4c69-b1e8-c0f6585fbef0",
     "git": "https://github.com/wefonts/OngleapKkotnaeche/tree/main",
-    "cssUrl": "https://raw.githubusercontent.com/wefonts/OngleapKkotnaeche/main/OngleapKkotnaeche.css"
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/OngleapKkotnaeche/main/OngleapKkotnaeche.css",
+    "style": "s7"
   },
   {
     "name": "온글잎 기숙",
@@ -282,7 +302,8 @@
     "weight": ["normal"],
     "link": "https://www.ownglyph.com/trial/5e77b8a7-81f1-473d-959f-97842f6e7407",
     "git": "https://github.com/wefonts/OngleapGisuk/tree/main",
-    "cssUrl": "https://raw.githubusercontent.com/wefonts/OngleapGisuk/main/OngleapGisuk.css"
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/OngleapGisuk/main/OngleapGisuk.css",
+    "style": "s8"
   },
   {
     "name": "온글잎 금향체",
@@ -290,7 +311,8 @@
     "weight": ["normal"],
     "link": "https://www.ownglyph.com/trial/22282dff-e51c-477a-aa12-73761f998dc2",
     "git": "https://github.com/wefonts/OngleapGeumhyangche/tree/main",
-    "cssUrl": "https://raw.githubusercontent.com/wefonts/OngleapGeumhyangche/main/OngleapGeumhyangche.css"
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/OngleapGeumhyangche/main/OngleapGeumhyangche.css",
+    "style": "s13"
   },
   {
     "name": "온글잎 금강 희제 할매체",
@@ -298,7 +320,8 @@
     "weight": ["normal"],
     "link": "https://www.ownglyph.com/trial/e90ca6d3-8abc-4c08-8ac1-ea98aa16a5cd",
     "git": "https://github.com/wefonts/OngleapGeumgangHeejeHalmaeche/tree/main",
-    "cssUrl": "https://raw.githubusercontent.com/wefonts/OngleapGeumgangHeejeHalmaeche/main/OngleapGeumgangHeejeHalmaeche.css"
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/OngleapGeumgangHeejeHalmaeche/main/OngleapGeumgangHeejeHalmaeche.css",
+    "style": "s17"
   },
   {
     "name": "온글잎 금강 효남 할매체",
@@ -306,7 +329,8 @@
     "weight": ["normal"],
     "link": "https://www.ownglyph.com/trial/b598a62d-48bb-469a-bd44-1983a95c2e4c",
     "git": "https://github.com/wefonts/OngleapGeumgangHyonamHalmaeche/tree/main",
-    "cssUrl": "https://raw.githubusercontent.com/wefonts/OngleapGeumgangHyonamHalmaeche/main/OngleapGeumgangHyonamHalmaeche.css"
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/OngleapGeumgangHyonamHalmaeche/main/OngleapGeumgangHyonamHalmaeche.css",
+    "style": "s18"
   },
   {
     "name": "온글잎 금강 정애 할매체",
@@ -314,7 +338,8 @@
     "weight": ["normal"],
     "link": "https://www.ownglyph.com/trial/10d03444-07b9-4df0-9e24-d678a812c1f5",
     "git": "https://github.com/wefonts/OngleapGeumgangJeongaeHalmaeche/tree/main",
-    "cssUrl": "https://raw.githubusercontent.com/wefonts/OngleapGeumgangJeongaeHalmaeche/main/OngleapGeumgangJeongaeHalmaeche.css"
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/OngleapGeumgangJeongaeHalmaeche/main/OngleapGeumgangJeongaeHalmaeche.css",
+    "style": "s16"
   },
   {
     "name": "온글잎 금강 옥희 할매체",
@@ -322,7 +347,8 @@
     "weight": ["normal"],
     "link": "https://www.ownglyph.com/trial/aa32e4bc-f10b-4f5d-b7a4-b2ca57661f95",
     "git": "https://github.com/wefonts/OngleapGeumgangOkheeHalmaeche/tree/main",
-    "cssUrl": "https://raw.githubusercontent.com/wefonts/OngleapGeumgangOkheeHalmaeche/main/OngleapGeumgangOkheeHalmaeche.css"
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/OngleapGeumgangOkheeHalmaeche/main/OngleapGeumgangOkheeHalmaeche.css",
+    "style": "s6"
   },
   {
     "name": "온글잎 금강 영순 할매체",
@@ -418,7 +444,8 @@
     "weight": ["300", "400", "700", "800"],
     "link": "https://hangeul.naver.com/font",
     "git": "https://github.com/wefonts/nanumSquareRound",
-    "cssUrl": "https://raw.githubusercontent.com/wefonts/nanumSquareRound/main/nanumSquareRound.css"
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/nanumSquareRound/main/nanumSquareRound.css",
+    "style": "s5"
   },
   {
     "name": "나눔손글씨붓체",
@@ -426,7 +453,8 @@
     "weight": ["normal"],
     "link": "https://hangeul.naver.com/font",
     "git": "https://github.com/wefonts/nanumBrush",
-    "cssUrl": "https://raw.githubusercontent.com/wefonts/nanumBrush/main/nanumBrush.css"
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/nanumBrush/main/nanumBrush.css",
+    "style": "s7"
   },
   {
     "name": "상주곶감체",
@@ -434,7 +462,8 @@
     "weight": ["normal"],
     "link": "https://www.sangju.go.kr/page/4317/3076.tc",
     "git": "https://github.com/wefonts/gotGam",
-    "cssUrl": "https://raw.githubusercontent.com/wefonts/gotGam/main/gotGam.css"
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/gotGam/main/gotGam.css",
+    "style": "s11"
   },
   {
     "name": "상주경천섬체",
@@ -442,7 +471,8 @@
     "weight": ["normal"],
     "link": "https://www.sangju.go.kr/page/4317/3076.tc",
     "git": "https://github.com/wefonts/gyeongCheon",
-    "cssUrl": "https://raw.githubusercontent.com/wefonts/nanumBrush/main/nanumBrush.css"
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/nanumBrush/main/nanumBrush.css",
+    "style": "s14"
   },
   {
     "name": "상주다정다감체",
@@ -450,23 +480,8 @@
     "weight": ["normal"],
     "link": "https://www.sangju.go.kr/page/4317/3076.tc",
     "git": "https://github.com/wefonts/dajungDagam",
-    "cssUrl": "https://raw.githubusercontent.com/wefonts/dajungDagam/main/dajungDagam.css"
-  },
-  {
-    "name": "웰컴체",
-    "name_eng": "welcome",
-    "weight": ["400", "700"],
-    "link": "https://www.welcomebank.co.kr/ib20/mnu/IBNBKIPRC005",
-    "git": "https://github.com/wefonts/welcome",
-    "cssUrl": "https://raw.githubusercontent.com/wefonts/welcome/main/welcome.css)"
-  },
-  {
-    "name": "어그로체",
-    "name_eng": "aggro",
-    "weight": ["300", "500", "700"],
-    "link": "https://sandbox.co.kr/font",
-    "git": "https://github.com/wefonts/aggro",
-    "cssUrl": "https://raw.githubusercontent.com/wefonts/aggro/main/aggro.css)"
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/dajungDagam/main/dajungDagam.css",
+    "style": "s18"
   },
   {
     "name": "고운바탕체",
@@ -474,7 +489,8 @@
     "weight": ["400", "700"],
     "link": "https://github.com/yangheeryu/Gowun-Batang",
     "git": "https://github.com/wefonts/gowunBatang",
-    "cssUrl": "https://raw.githubusercontent.com/wefonts/gowunBatang/main/gowunBatang.css"
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/gowunBatang/main/gowunBatang.css",
+    "style": "s4"
   },
   {
     "name": "고운돋움체",
@@ -482,7 +498,8 @@
     "weight": ["normal"],
     "link": "https://github.com/yangheeryu/Gowun-Dodum",
     "git": "https://github.com/wefonts/gowunDodum",
-    "cssUrl": "https://raw.githubusercontent.com/wefonts/gowunDodum/main/gowunDodum.css"
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/gowunDodum/main/gowunDodum.css",
+    "style": "s16"
   },
   {
     "name": "동글체",
@@ -490,7 +507,8 @@
     "weight": ["300", "400", "700"],
     "link": "https://github.com/yangheeryu/Dongle",
     "git": "https://github.com/wefonts/dongle",
-    "cssUrl": "https://raw.githubusercontent.com/wefonts/dongle/main/dongle.css"
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/dongle/main/dongle.css",
+    "style": "s17"
   },
   {
     "name": "앨리스디지털배움체",
@@ -498,7 +516,8 @@
     "weight": ["400", "700"],
     "link": "https://elice.io/ko/elice/brand#elice_digital_baeum",
     "git": "https://github.com/wefonts/digitalBaeum",
-    "cssUrl": "https://raw.githubusercontent.com/wefonts/digitalBaeum/main/digitalBaeum.css"
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/digitalBaeum/main/digitalBaeum.css",
+    "style": "s3"
   },
   {
     "name": "티웨이하늘체",
@@ -506,7 +525,8 @@
     "weight": ["normal"],
     "link": "https://www.twayair.com/app/serviceInfo/contents/1320",
     "git": "https://github.com/wefonts/twaySky",
-    "cssUrl": "https://raw.githubusercontent.com/wefonts/twaySky/main/twaySky.css"
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/twaySky/main/twaySky.css",
+    "style": "s1"
   },
   {
     "name": "티웨이항공체",
@@ -514,7 +534,8 @@
     "weight": ["normal"],
     "link": "https://www.twayair.com/app/serviceInfo/contents/1320",
     "git": "https://github.com/wefonts/twayAir",
-    "cssUrl": "https://raw.githubusercontent.com/wefonts/dajungDagam/main/dajungDagam.css"
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/dajungDagam/main/dajungDagam.css",
+    "style": "s2"
   },
   {
     "name": "티웨이날다체",
@@ -522,7 +543,8 @@
     "weight": ["normal"],
     "link": "https://www.twayair.com/app/serviceInfo/contents/1320",
     "git": "https://github.com/wefonts/twayFly",
-    "cssUrl": "https://raw.githubusercontent.com/wefonts/twayFly/main/twayFly.css"
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/twayFly/main/twayFly.css",
+    "style": "s9"
   },
   {
     "name": "설립체",
@@ -530,7 +552,8 @@
     "weight": ["normal"],
     "link": "https://www.ssro.net/media/media_view.jsp?bcate=fontdown&no=520735",
     "git": "https://github.com/wefonts/establish",
-    "cssUrl": "https://raw.githubusercontent.com/wefonts/establish/main/establish.css"
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/establish/main/establish.css",
+    "style": "s10"
   },
   {
     "name": "박물관문화재단클래식",
@@ -538,7 +561,8 @@
     "weight": ["300", "500", "700"],
     "link": "https://cfnmk.or.kr/agency/sub/20181024100034469100_contents.do",
     "git": "https://github.com/wefonts/museumClassic",
-    "cssUrl": "https://raw.githubusercontent.com/wefonts/museumClassic/main/museumClassic.css"
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/museumClassic/main/museumClassic.css",
+    "style": "s18"
   },
   {
     "name": "고도체",
@@ -546,15 +570,8 @@
     "weight": ["500", "700"],
     "link": "https://design.nhn-commerce.com/custom/free-font.php",
     "git": "https://github.com/wefonts/godo",
-    "cssUrl": "https://raw.githubusercontent.com/wefonts/godo/main/godo.css"
-  },
-  {
-    "name": "마포당인리발전소체",
-    "name_eng": "mapoDPP",
-    "weight": ["normal"],
-    "link": "https://www.mapo.go.kr/site/main/content/mapo04010201",
-    "git": "https://github.com/wefonts/mapoDPP",
-    "cssUrl": "https://raw.githubusercontent.com/wefonts/mapoDPP/main/mapoDPP.css)"
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/godo/main/godo.css",
+    "style": "s7"
   },
   {
     "name": "마포꽃섬체",
@@ -562,7 +579,8 @@
     "weight": ["normal"],
     "link": "https://www.mapo.go.kr/site/main/content/mapo04010201",
     "git": "https://github.com/wefonts/flowerIsland",
-    "cssUrl": "https://raw.githubusercontent.com/wefonts/flowerIsland/main/flowerIsland.css"
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/flowerIsland/main/flowerIsland.css",
+    "style": "s15"
   },
   {
     "name": "마포한아름체",
@@ -570,6 +588,7 @@
     "weight": ["normal"],
     "link": "https://www.mapo.go.kr/site/main/content/mapo04010201",
     "git": "https://github.com/wefonts/peacefull",
-    "cssUrl": "https://raw.githubusercontent.com/wefonts/peacefull/main/peacefull.css"
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/peacefull/main/peacefull.css",
+    "style": "s3"
   }
 ]
