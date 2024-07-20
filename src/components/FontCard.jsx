@@ -162,9 +162,17 @@ const FontCard = ({ font }) => {
         <>
           <span>{font.name}</span>
           <span>{font.name_eng}</span>
+          <span>{font.name}</span>
+          <span>{font.name_eng}</span>
         </>
       )}
       {font.style === "s20" && (
+        <>
+          <span>{font.name}</span>
+          <span>{font.name_eng}</span>
+        </>
+      )}
+      {font.style === "s21" && (
         <>
           <span>{font.name}</span>
           <span>{font.name_eng}</span>
