@@ -601,5 +601,428 @@
     "git": "https://github.com/wefonts/peacefull",
     "cssUrl": "https://raw.githubusercontent.com/wefonts/peacefull/main/peacefull.css",
     "style": "s3"
+  },
+  {
+    "name": "스위트체",
+    "name_eng": "suite",
+    "weight": ["300", "400", "500", "600", "700", "800", "900"],
+    "link": "https://sun.fo/suite/",
+    "git": "https://github.com/wefonts/suite",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/suite/main/suite.css",
+    "style": "s17"
+  },
+  {
+    "name": "원스토어 모바일POP체",
+    "name_eng": "oneMobilePop",
+    "weight": ["normal"],
+    "link": "https://www.onestorecorp.com/sv/fordev_font/",
+    "git": "https://github.com/wefonts/oneMobilePop",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/oneMobilePop/main/oneMobilePop.css",
+    "style": "s8"
+  },
+  {
+    "name": "원스토어 모바일 고딕 본문체",
+    "name_eng": "oneMobile",
+    "weight": ["normal"],
+    "link": "https://www.onestorecorp.com/sv/fordev_font/",
+    "git": "https://github.com/wefonts/oneMobile",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/oneMobile/main/oneMobile.css",
+    "style": "s10"
+  },
+  {
+    "name": "나눔명조옛한글체",
+    "name_eng": "nanumMyeongjoYet",
+    "weight": ["300", "400", "700"],
+    "link": "https://hangeul.naver.com/font",
+    "git": "https://github.com/wefonts/nanumMyeongjoYet",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/nanumMyeongjoYet/main/nanumMyeongjoYet.css",
+    "style": "s12"
+  },
+  {
+    "name": "나눔명조체",
+    "name_eng": "nanumMyeongjo",
+    "weight": ["400", "700", "800"],
+    "link": "https://hangeul.naver.com/font",
+    "git": "https://github.com/wefonts/nanumMyeongjo",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/nanumMyeongjo/main/nanumMyeongjo.css",
+    "style": "s16"
+  },
+  {
+    "name": "코트라희망체",
+    "name_eng": "kotraHope",
+    "weight": ["normal"],
+    "link": "https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?wrtSn=13302259&menuNo=200023",
+    "git": "https://github.com/wefonts/kotraHope",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/kotraHope/main/kotraHope.css",
+    "style": "s2"
+  },
+  {
+    "name": "나눔바른펜체",
+    "name_eng": "nanumBarunPen",
+    "weight": ["400", "700"],
+    "link": "https://hangeul.naver.com/font",
+    "git": "https://github.com/wefonts/nanumBarunPen",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/nanumBarunPen/main/nanumBarunPen.css",
+    "style": "s19"
+  },
+  {
+    "name": "나눔바른고딕옛한글체",
+    "name_eng": "nanumBarunGothicYet",
+    "weight": ["normal"],
+    "link": "https://hangeul.naver.com/font",
+    "git": "https://github.com/wefonts/nanumBarunGothicYet",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/nanumBarunGothicYet/main/nanumBarunGothicYet.css",
+    "style": "s21"
+  },
+  {
+    "name": "코트라고딕체",
+    "name_eng": "kotraGothic",
+    "weight": ["normal"],
+    "link": "https://www.kotra.or.kr/subList/20000005965?tabid=20",
+    "git": "https://github.com/wefonts/kotraGothic",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/kotraGothic/main/kotraGothic.css",
+    "style": "s15"
+  },
+  {
+    "name": "코트라도약체",
+    "name_eng": "kotraLeap",
+    "weight": ["normal"],
+    "link": "https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?wrtSn=13302257&menuNo=200023",
+    "git": "https://github.com/wefonts/kotraLeap",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/kotraLeap/main/kotraLeap.css",
+    "style": "s17"
+  },
+  {
+    "name": "코트라손글씨체",
+    "name_eng": "kotraSongeulssi",
+    "weight": ["normal"],
+    "link": "https://www.kotra.or.kr/subList/20000005965?tabid=20",
+    "git": "https://github.com/wefonts/kotraSongeulssi",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/kotraSongeulssi/main/kotraSongeulssi.css",
+    "style": "s12"
+  },
+  {
+    "name": "코트라볼드체",
+    "name_eng": "kotraBold",
+    "weight": ["normal"],
+    "link": "https://www.kotra.or.kr/subList/20000005965?tabid=20",
+    "git": "https://github.com/wefonts/kotraBold",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/kotraBold/main/kotraBold.css",
+    "style": "s18"
+  },
+  {
+    "name": "카페24 당당해체",
+    "name_eng": "dangDangHae",
+    "weight": ["normal"],
+    "link": "https://fonts.cafe24.com/",
+    "git": "https://github.com/wefonts/dangDangHae",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/dangDangHae/main/dangDangHae.css",
+    "style": "s11"
+  },
+  {
+    "name": "카페24 동동체",
+    "name_eng": "dongdong",
+    "weight": ["normal"],
+    "link": "https://fonts.cafe24.com/",
+    "git": "https://github.com/wefonts/dongdong",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/dongdong/main/dongdong.css",
+    "style": "s3"
+  },
+  {
+    "name": "Y유니버스체",
+    "name_eng": "yUniverse",
+    "weight": ["300", "700"],
+    "link": "https://www.yspotlight.co.kr/brand/font",
+    "git": "https://github.com/wefonts/yUniverse",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/yUniverse/main/yUniverse.css",
+    "style": "s4"
+  },
+  {
+    "name": "Y너만을비춤체",
+    "name_eng": "ySpotLight",
+    "weight": ["normal"],
+    "link": "https://www.yspotlight.co.kr/brand/font",
+    "git": "https://github.com/wefonts/ySpotLight",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/ySpotLight/main/ySpotLight.css",
+    "style": "s15"
+  },
+  {
+    "name": "넥슨메이플스토리체",
+    "name_eng": "nexonMaplestory",
+    "weight": ["300", "700"],
+    "link": "https://brand.nexon.com/ko",
+    "git": "https://github.com/wefonts/nexonMaplestory",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/nexonMaplestory/main/nexonMaplestory.css",
+    "style": "s21"
+  },
+  {
+    "name": "넥슨배찌체",
+    "name_eng": "nexonBazzi",
+    "weight": ["normal"],
+    "link": "https://brand.nexon.com/ko",
+    "git": "https://github.com/wefonts/nexonBazzi",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/nexonBazzi/main/nexonBazzi.css",
+    "style": "s2"
+  },
+  {
+    "name": "",
+    "name_eng": "",
+    "weight": ["normal"],
+    "link": "https://www.mapo.go.kr/site/main/content/mapo04010201",
+    "git": "https://github.com/wefonts/peacefull",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/peacefull/main/peacefull.css",
+    "style": "s3"
+  },
+  {
+    "name": "",
+    "name_eng": "",
+    "weight": ["normal"],
+    "link": "https://www.mapo.go.kr/site/main/content/mapo04010201",
+    "git": "https://github.com/wefonts/peacefull",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/peacefull/main/peacefull.css",
+    "style": "s3"
+  },
+  {
+    "name": "",
+    "name_eng": "",
+    "weight": ["normal"],
+    "link": "https://www.mapo.go.kr/site/main/content/mapo04010201",
+    "git": "https://github.com/wefonts/peacefull",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/peacefull/main/peacefull.css",
+    "style": "s3"
+  },
+  {
+    "name": "",
+    "name_eng": "",
+    "weight": ["normal"],
+    "link": "https://www.mapo.go.kr/site/main/content/mapo04010201",
+    "git": "https://github.com/wefonts/peacefull",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/peacefull/main/peacefull.css",
+    "style": "s3"
+  },
+  {
+    "name": "",
+    "name_eng": "",
+    "weight": ["normal"],
+    "link": "https://www.mapo.go.kr/site/main/content/mapo04010201",
+    "git": "https://github.com/wefonts/peacefull",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/peacefull/main/peacefull.css",
+    "style": "s3"
+  },
+  {
+    "name": "",
+    "name_eng": "",
+    "weight": ["normal"],
+    "link": "https://www.mapo.go.kr/site/main/content/mapo04010201",
+    "git": "https://github.com/wefonts/peacefull",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/peacefull/main/peacefull.css",
+    "style": "s3"
+  },
+  {
+    "name": "",
+    "name_eng": "",
+    "weight": ["normal"],
+    "link": "https://www.mapo.go.kr/site/main/content/mapo04010201",
+    "git": "https://github.com/wefonts/peacefull",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/peacefull/main/peacefull.css",
+    "style": "s3"
+  },
+  {
+    "name": "",
+    "name_eng": "",
+    "weight": ["normal"],
+    "link": "https://www.mapo.go.kr/site/main/content/mapo04010201",
+    "git": "https://github.com/wefonts/peacefull",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/peacefull/main/peacefull.css",
+    "style": "s3"
+  },
+  {
+    "name": "",
+    "name_eng": "",
+    "weight": ["normal"],
+    "link": "https://www.mapo.go.kr/site/main/content/mapo04010201",
+    "git": "https://github.com/wefonts/peacefull",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/peacefull/main/peacefull.css",
+    "style": "s3"
+  },
+  {
+    "name": "",
+    "name_eng": "",
+    "weight": ["normal"],
+    "link": "https://www.mapo.go.kr/site/main/content/mapo04010201",
+    "git": "https://github.com/wefonts/peacefull",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/peacefull/main/peacefull.css",
+    "style": "s3"
+  },
+  {
+    "name": "",
+    "name_eng": "",
+    "weight": ["normal"],
+    "link": "https://www.mapo.go.kr/site/main/content/mapo04010201",
+    "git": "https://github.com/wefonts/peacefull",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/peacefull/main/peacefull.css",
+    "style": "s3"
+  },
+  {
+    "name": "",
+    "name_eng": "",
+    "weight": ["normal"],
+    "link": "https://www.mapo.go.kr/site/main/content/mapo04010201",
+    "git": "https://github.com/wefonts/peacefull",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/peacefull/main/peacefull.css",
+    "style": "s3"
+  },
+  {
+    "name": "",
+    "name_eng": "",
+    "weight": ["normal"],
+    "link": "https://www.mapo.go.kr/site/main/content/mapo04010201",
+    "git": "https://github.com/wefonts/peacefull",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/peacefull/main/peacefull.css",
+    "style": "s3"
+  },
+  {
+    "name": "",
+    "name_eng": "",
+    "weight": ["normal"],
+    "link": "https://www.mapo.go.kr/site/main/content/mapo04010201",
+    "git": "https://github.com/wefonts/peacefull",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/peacefull/main/peacefull.css",
+    "style": "s3"
+  },
+  {
+    "name": "",
+    "name_eng": "",
+    "weight": ["normal"],
+    "link": "https://www.mapo.go.kr/site/main/content/mapo04010201",
+    "git": "https://github.com/wefonts/peacefull",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/peacefull/main/peacefull.css",
+    "style": "s3"
+  },
+  {
+    "name": "",
+    "name_eng": "",
+    "weight": ["normal"],
+    "link": "https://www.mapo.go.kr/site/main/content/mapo04010201",
+    "git": "https://github.com/wefonts/peacefull",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/peacefull/main/peacefull.css",
+    "style": "s3"
+  },
+  {
+    "name": "",
+    "name_eng": "",
+    "weight": ["normal"],
+    "link": "https://www.mapo.go.kr/site/main/content/mapo04010201",
+    "git": "https://github.com/wefonts/peacefull",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/peacefull/main/peacefull.css",
+    "style": "s3"
+  },
+  {
+    "name": "",
+    "name_eng": "",
+    "weight": ["normal"],
+    "link": "https://www.mapo.go.kr/site/main/content/mapo04010201",
+    "git": "https://github.com/wefonts/peacefull",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/peacefull/main/peacefull.css",
+    "style": "s3"
+  },
+  {
+    "name": "",
+    "name_eng": "",
+    "weight": ["normal"],
+    "link": "https://www.mapo.go.kr/site/main/content/mapo04010201",
+    "git": "https://github.com/wefonts/peacefull",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/peacefull/main/peacefull.css",
+    "style": "s3"
+  },
+  {
+    "name": "",
+    "name_eng": "",
+    "weight": ["normal"],
+    "link": "https://www.mapo.go.kr/site/main/content/mapo04010201",
+    "git": "https://github.com/wefonts/peacefull",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/peacefull/main/peacefull.css",
+    "style": "s3"
+  },
+  {
+    "name": "",
+    "name_eng": "",
+    "weight": ["normal"],
+    "link": "https://www.mapo.go.kr/site/main/content/mapo04010201",
+    "git": "https://github.com/wefonts/peacefull",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/peacefull/main/peacefull.css",
+    "style": "s3"
+  },
+  {
+    "name": "",
+    "name_eng": "",
+    "weight": ["normal"],
+    "link": "https://www.mapo.go.kr/site/main/content/mapo04010201",
+    "git": "https://github.com/wefonts/peacefull",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/peacefull/main/peacefull.css",
+    "style": "s3"
+  },
+  {
+    "name": "",
+    "name_eng": "",
+    "weight": ["normal"],
+    "link": "https://www.mapo.go.kr/site/main/content/mapo04010201",
+    "git": "https://github.com/wefonts/peacefull",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/peacefull/main/peacefull.css",
+    "style": "s3"
+  },
+  {
+    "name": "",
+    "name_eng": "",
+    "weight": ["normal"],
+    "link": "https://www.mapo.go.kr/site/main/content/mapo04010201",
+    "git": "https://github.com/wefonts/peacefull",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/peacefull/main/peacefull.css",
+    "style": "s3"
+  },
+  {
+    "name": "",
+    "name_eng": "",
+    "weight": ["normal"],
+    "link": "https://www.mapo.go.kr/site/main/content/mapo04010201",
+    "git": "https://github.com/wefonts/peacefull",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/peacefull/main/peacefull.css",
+    "style": "s3"
+  },
+  {
+    "name": "",
+    "name_eng": "",
+    "weight": ["normal"],
+    "link": "https://www.mapo.go.kr/site/main/content/mapo04010201",
+    "git": "https://github.com/wefonts/peacefull",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/peacefull/main/peacefull.css",
+    "style": "s3"
+  },
+  {
+    "name": "",
+    "name_eng": "",
+    "weight": ["normal"],
+    "link": "https://www.mapo.go.kr/site/main/content/mapo04010201",
+    "git": "https://github.com/wefonts/peacefull",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/peacefull/main/peacefull.css",
+    "style": "s3"
+  },
+  {
+    "name": "",
+    "name_eng": "",
+    "weight": ["normal"],
+    "link": "https://www.mapo.go.kr/site/main/content/mapo04010201",
+    "git": "https://github.com/wefonts/peacefull",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/peacefull/main/peacefull.css",
+    "style": "s3"
+  },
+  {
+    "name": "",
+    "name_eng": "",
+    "weight": ["normal"],
+    "link": "https://www.mapo.go.kr/site/main/content/mapo04010201",
+    "git": "https://github.com/wefonts/peacefull",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/peacefull/main/peacefull.css",
+    "style": "s3"
   }
 ]
