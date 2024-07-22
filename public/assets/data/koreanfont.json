@@ -765,264 +765,1299 @@
     "style": "s2"
   },
   {
-    "name": "",
-    "name_eng": "",
+    "name": "넥슨풋볼고딕체",
+    "name_eng": "nexonFootball",
+    "weight": ["300", "700"],
+    "link": "https://brand.nexon.com/ko",
+    "git": "https://github.com/wefonts/nexonFootball",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/nexonFootball/main/nexonFootball.css",
+    "style": "s13"
+  },
+  {
+    "name": "넥슨Lv.1고딕체",
+    "name_eng": "nexonLv1",
+    "weight": ["300", "400", "700"],
+    "link": "https://brand.nexon.com/ko",
+    "git": "https://github.com/wefonts/nexonLv1",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/nexonLv1/main/nexonLv1.css",
+    "style": "s5"
+  },
+  {
+    "name": "넥슨Lv.2고딕체",
+    "name_eng": "nexonLv2",
+    "weight": ["300", "400", "700"],
+    "link": "https://brand.nexon.com/ko",
+    "git": "https://github.com/wefonts/nexonLv2",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/nexonLv2/main/nexonLv2.css",
+    "style": "s19"
+  },
+  {
+    "name": "카페24 슈퍼매직 Regular체",
+    "name_eng": "superMagicRegular",
+    "weight": ["normal"],
+    "link": "https://fonts.cafe24.com",
+    "git": "https://github.com/wefonts/superMagicRegular",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/superMagicRegular/main/superMagicRegular.css",
+    "style": "s17"
+  },
+  {
+    "name": "카페24 슈퍼매직 Bold체",
+    "name_eng": "superMagicBold",
+    "weight": ["normal"],
+    "link": "https://fonts.cafe24.com",
+    "git": "https://github.com/wefonts/superMagicBold",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/superMagicBold/main/superMagicBold.css",
+    "style": "s18"
+  },
+  {
+    "name": "카페24 클래식타입체",
+    "name_eng": "classicType",
+    "weight": ["normal"],
+    "link": "https://fonts.cafe24.com",
+    "git": "https://github.com/wefonts/classicType",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/classicType/main/classicType.css",
+    "style": "s14"
+  },
+  {
+    "name": "카페24 써라운드체",
+    "name_eng": "ssurround",
+    "weight": ["normal"],
+    "link": "https://fonts.cafe24.com",
+    "git": "https://github.com/wefonts/ssurround",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/ssurround/main/ssurround.css",
+    "style": "s10"
+  },
+  {
+    "name": "카페24 써라운드에어체",
+    "name_eng": "ssurroundAir",
+    "weight": ["normal"],
+    "link": "https://fonts.cafe24.com",
+    "git": "https://github.com/wefonts/ssurroundAir",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/ssurroundAir/main/ssurroundAir.css",
+    "style": "s17"
+  },
+  {
+    "name": "카페24 빛나는별체",
+    "name_eng": "shiningStar",
+    "weight": ["normal"],
+    "link": "https://fonts.cafe24.com",
+    "git": "https://github.com/wefonts/shiningStar",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/shiningStar/main/shiningStar.css",
+    "style": "s7"
+  },
+  {
+    "name": "카페24 단정해체",
+    "name_eng": "danJungHae",
+    "weight": ["normal"],
+    "link": "https://fonts.cafe24.com",
+    "git": "https://github.com/wefonts/danJungHae",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/danJungHae/main/danJungHae.css",
+    "style": "s8"
+  },
+  {
+    "name": "카페24 숑숑체",
+    "name_eng": "syongsyong",
+    "weight": ["normal"],
+    "link": "https://fonts.cafe24.com",
+    "git": "https://github.com/wefonts/syongsyong",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/syongsyong/main/syongsyong.css",
+    "style": "s2"
+  },
+  {
+    "name": "카페24 심플해체",
+    "name_eng": "simpleHae",
+    "weight": ["normal"],
+    "link": "https://fonts.cafe24.com",
+    "git": "https://github.com/wefonts/simpleHae",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/simpleHae/main/simpleHae.css",
+    "style": "s17"
+  },
+  {
+    "name": "카페24 쑥쑥체",
+    "name_eng": "ssukssuk",
+    "weight": ["normal"],
+    "link": "https://fonts.cafe24.com",
+    "git": "https://github.com/wefonts/ssukssuk",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/ssukssuk/main/ssukssuk.css",
+    "style": "s21"
+  },
+  {
+    "name": "카페24 고운밤체",
+    "name_eng": "prettyNight",
+    "weight": ["normal"],
+    "link": "https://fonts.cafe24.com",
+    "git": "https://github.com/wefonts/prettyNight",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/prettyNight/main/prettyNight.css",
+    "style": "s3"
+  },
+  {
+    "name": "카페24 아네모네체",
+    "name_eng": "ohSquare",
+    "weight": ["normal"],
+    "link": "https://fonts.cafe24.com",
+    "git": "https://github.com/wefonts/ohSquare",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/ohSquare/main/ohSquare.css",
+    "style": "s16"
+  },
+  {
+    "name": "카페24 아네모네 에어체",
+    "name_eng": "ohSquareAir",
+    "weight": ["normal"],
+    "link": "https://fonts.cafe24.com",
+    "git": "https://github.com/wefonts/ohSquareAir",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/ohSquareAir/main/ohSquareAir.css",
+    "style": "s20"
+  },
+  {
+    "name": "스웨거체",
+    "name_eng": "swagger",
     "weight": ["normal"],
     "link": "https://www.mapo.go.kr/site/main/content/mapo04010201",
-    "git": "https://github.com/wefonts/peacefull",
-    "cssUrl": "https://raw.githubusercontent.com/wefonts/peacefull/main/peacefull.css",
+    "git": "https://github.com/wefonts/swagger",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/swagger/main/swagger.css",
+    "style": "s8"
+  },
+  {
+    "name": "빛의계승자체",
+    "name_eng": "heirOfLight",
+    "weight": ["400", "700"],
+    "link": "https://heiroflight.gamevil.com/",
+    "git": "https://github.com/wefonts/heirOfLight",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/heirOfLight/main/heirOfLight.css",
+    "style": "s18"
+  },
+  {
+    "name": "잘풀리는하루체",
+    "name_eng": "day",
+    "weight": ["normal"],
+    "link": "https://www.jjtissue.com/prcenter/prcenter_04.php",
+    "git": "https://github.com/wefonts/day",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/day/main/day.css",
+    "style": "s1"
+  },
+  {
+    "name": "잘풀리는오늘체",
+    "name_eng": "today",
+    "weight": ["normal"],
+    "link": "https://www.jjtissue.com/prcenter/prcenter_04.php",
+    "git": "https://github.com/wefonts/today",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/today/main/today.css",
+    "style": "s21"
+  },
+  {
+    "name": "경기천년제목체",
+    "name_eng": "gyeonggiTitle",
+    "weight": ["300", "500", "700"],
+    "link": "https://www.gg.go.kr/contents/contents.do?ciIdx=679&menuId=2457",
+    "git": "https://github.com/wefonts/gyeonggiTitle",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/gyeonggiTitle/main/gyeonggiTitle.css",
+    "style": "s5"
+  },
+  {
+    "name": "조선일보명조체",
+    "name_eng": "chosunNm",
+    "weight": ["normal"],
+    "link": "https://event.chosun.com/100/100font.html",
+    "git": "https://github.com/wefonts/chosunNm",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/chosunNm/main/chosunNm.css",
+    "style": "s17"
+  },
+  {
+    "name": "조선로고체",
+    "name_eng": "chosunLo",
+    "weight": ["normal"],
+    "link": "https://event.chosun.com/100/100font.html",
+    "git": "https://github.com/wefonts/chosunLo",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/chosunLo/main/chosunLo.css",
+    "style": "s19"
+  },
+  {
+    "name": "조선궁서체",
+    "name_eng": "chosunGs",
+    "weight": ["normal"],
+    "link": "https://event.chosun.com/100/100font.html",
+    "git": "https://github.com/wefonts/chosunGs",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/chosunGs/main/chosunGs.css",
+    "style": "s12"
+  },
+  {
+    "name": "조선굴림체",
+    "name_eng": "chosunGu",
+    "weight": ["normal"],
+    "link": "https://event.chosun.com/100/100font.html",
+    "git": "https://github.com/wefonts/chosunGu",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/chosunGu/main/chosunGu.css",
+    "style": "s21"
+  },
+  {
+    "name": "조선견고딕체",
+    "name_eng": "chosunBg",
+    "weight": ["normal"],
+    "link": "https://event.chosun.com/100/100font.html",
+    "git": "https://github.com/wefonts/chosunBg",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/chosunBg/main/chosunBg.css",
+    "style": "s14"
+  },
+  {
+    "name": "조선굵은고딕체",
+    "name_eng": "chosunKg",
+    "weight": ["normal"],
+    "link": "https://event.chosun.com/100/100font.html",
+    "git": "https://github.com/wefonts/chosunKg",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/chosunKg/main/chosunKg.css",
+    "style": "s20"
+  },
+  {
+    "name": "조선가는고딕체",
+    "name_eng": "chosunSg",
+    "weight": ["normal"],
+    "link": "https://event.chosun.com/100/100font.html",
+    "git": "https://github.com/wefonts/chosunSg",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/chosunSg/main/chosunSg.css",
+    "style": "s20"
+  },
+  {
+    "name": "조선신명조체",
+    "name_eng": "chosunSm",
+    "weight": ["normal"],
+    "link": "https://event.chosun.com/100/100font.html",
+    "git": "https://github.com/wefonts/chosunSm",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/chosunSm/main/chosunSm.css",
+    "style": "s12"
+  },
+  {
+    "name": "배민 한나는11살체",
+    "name_eng": "hanna11",
+    "weight": ["normal"],
+    "link": "https://www.woowahan.com/#/fonts/hannaPro",
+    "git": "https://github.com/wefonts/hanna11",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/hanna11/main/hanna11.css",
+    "style": "s15"
+  },
+  {
+    "name": "배민 한나체",
+    "name_eng": "hannaPro",
+    "weight": ["normal"],
+    "link": "https://www.woowahan.com/#/fonts/hannaPro",
+    "git": "https://github.com/wefonts/hannaPro",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/hannaPro/main/hannaPro.css",
+    "style": "s8"
+  },
+  {
+    "name": "배민 기랑해랑체",
+    "name_eng": "kiRang",
+    "weight": ["normal"],
+    "link": "http://font.woowahan.com/kiranghaerang/",
+    "git": "https://github.com/wefonts/kiRang",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/kiRang/main/kiRang.css",
+    "style": "s13"
+  },
+  {
+    "name": "배민 을지로 오래오래체",
+    "name_eng": "oraeorae",
+    "weight": ["normal"],
+    "link": "https://www.woowahan.com/#/fonts/euljirooraeorae",
+    "git": "https://github.com/wefonts/oraeorae",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/oraeorae/main/oraeorae.css",
+    "style": "s21"
+  },
+  {
+    "name": "배민 을지로 10년후체",
+    "name_eng": "euljiro10",
+    "weight": ["normal"],
+    "link": "https://www.woowahan.com/#/fonts/euljiro10",
+    "git": "https://github.com/wefonts/euljiro10",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/euljiro10/main/euljiro10.css",
+    "style": "s20"
+  },
+  {
+    "name": "배민 한나체 Air",
+    "name_eng": "hannaAir",
+    "weight": ["normal"],
+    "link": "https://www.woowahan.com/#/fonts",
+    "git": "https://github.com/wefonts/hannaAir",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/hannaAir/main/hannaAir.css",
+    "style": "s15"
+  },
+  {
+    "name": "배민 연성체",
+    "name_eng": "yeonsung",
+    "weight": ["normal"],
+    "link": "http://font.woowahan.com/yeonsung/",
+    "git": "https://github.com/wefonts/yeonsung",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/yeonsung/main/yeonsung.css",
+    "style": "s13"
+  },
+  {
+    "name": "배민 도현체",
+    "name_eng": "dohyeon",
+    "weight": ["normal"],
+    "link": "http://font.woowahan.com/dohyeon/",
+    "git": "https://github.com/wefonts/dohyeon",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/dohyeon/main/dohyeon.css",
+    "style": "s17"
+  },
+  {
+    "name": "배민 주아체",
+    "name_eng": "jua",
+    "weight": ["normal"],
+    "link": "http://font.woowahan.com/jua/",
+    "git": "https://github.com/wefonts/jua",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/jua/main/jua.css",
+    "style": "s2"
+  },
+  {
+    "name": "원스토어 모바일 고딕 제목체",
+    "name_eng": "oneMobileTitle",
+    "weight": ["normal"],
+    "link": "https://www.onestorecorp.com/sv/fordev_font/",
+    "git": "https://github.com/wefonts/oneMobileTitle",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/oneMobileTitle/main/oneMobileTitle.css",
+    "style": "s8"
+  },
+  {
+    "name": "경기천년바탕체",
+    "name_eng": "gyeonggiBatang",
+    "weight": ["normal"],
+    "link": "https://www.gg.go.kr/contents/contents.do?ciIdx=679&menuId=2457",
+    "git": "https://github.com/wefonts/gyeonggiBatang",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/gyeonggiBatang/main/gyeonggiBatang.css",
+    "style": "s13"
+  },
+  {
+    "name": "서울남산체",
+    "name_eng": "seoulNamsan",
+    "weight": ["300", "500", "700", "800"],
+    "link": "https://www.seoul.go.kr/seoul/font.do",
+    "git": "https://github.com/wefonts/seoulNamsan",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/seoulNamsan/main/seoulNamsan.css",
+    "style": "s18"
+  },
+  {
+    "name": "강원교육모두체",
+    "name_eng": "eduAll",
+    "weight": ["300", "700"],
+    "link": "https://www.gwe.go.kr/main/content.do?key=m2307211207715",
+    "git": "https://github.com/wefonts/eduAll",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/eduAll/main/eduAll.css",
+    "style": "s16"
+  },
+  {
+    "name": "강원교육튼튼체",
+    "name_eng": "eduPower",
+    "weight": ["normal"],
+    "link": "https://www.gwe.go.kr/main/content.do?key=m2307211207715",
+    "git": "https://github.com/wefonts/eduPower",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/eduPower/main/eduPower.css",
+    "style": "s20"
+  },
+  {
+    "name": "강원교육현옥샘체",
+    "name_eng": "eduHyeonok",
+    "weight": ["normal"],
+    "link": "https://www.mapo.go.kr/site/main/content/mapo04010201",
+    "git": "https://github.com/wefonts/eduHyeonok",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/eduHyeonok/main/eduHyeonok.css",
+    "style": "s14"
+  },
+  {
+    "name": "강원교육새음체",
+    "name_eng": "eduSaeeum",
+    "weight": ["normal"],
+    "link": "https://www.gwe.go.kr/main/content.do?key=m2307211207715",
+    "git": "https://github.com/wefonts/eduSaeeum",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/eduSaeeum/main/eduSaeeum.css",
+    "style": "s13"
+  },
+  {
+    "name": "강한육군체",
+    "name_eng": "roka",
+    "weight": ["500", "700"],
+    "link": "https://m.blog.naver.com/armynuri2017/222197996527",
+    "git": "https://github.com/wefonts/roka",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/roka/main/roka.css",
+    "style": "s10"
+  },
+  {
+    "name": "넷마블체",
+    "name_eng": "netmarble",
+    "weight": ["300", "500", "700"],
+    "link": "https://company.netmarble.com/company/ci?tab=2",
+    "git": "https://github.com/wefonts/netmarble",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/netmarble/main/netmarble.css",
+    "style": "s8"
+  },
+  {
+    "name": "서울한강체",
+    "name_eng": "seoulHangang",
+    "weight": ["300", "500", "700", "800"],
+    "link": "https://www.seoul.go.kr/seoul/font.do",
+    "git": "https://github.com/wefonts/seoulHangang",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/seoulHangang/main/seoulHangang.css",
+    "style": "s18"
+  },
+  {
+    "name": "세방고딕체",
+    "name_eng": "sebangGothic",
+    "weight": ["400", "700"],
+    "link": "https://www.gbattery.com/board/news?bbs_section=view&idx=54",
+    "git": "https://github.com/wefonts/sebangGothic",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/sebangGothic/main/sebangGothic.css",
+    "style": "s21"
+  },
+  {
+    "name": "검은고딕체",
+    "name_eng": "blackGothic",
+    "weight": ["normal"],
+    "link": "https://www.mapo.go.kr/site/main/content/blackGothic",
+    "git": "https://github.com/wefonts/blackGothic",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/blackGothic/main/blackGothic.css",
+    "style": "s7"
+  },
+  {
+    "name": "마포 홍대프리덤체",
+    "name_eng": "hongdae",
+    "weight": ["normal"],
+    "link": "https://www.mapo.go.kr/site/main/content/mapo04010201",
+    "git": "https://github.com/wefonts/hongdae",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/hongdae/main/hongdae.css",
+    "style": "s17"
+  },
+  {
+    "name": "마포나루체",
+    "name_eng": "maponaru",
+    "weight": ["normal"],
+    "link": "https://www.mapo.go.kr/site/main/content/mapo04010201",
+    "git": "https://github.com/wefonts/maponaru",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/maponaru/main/maponaru.css",
+    "style": "s13"
+  },
+  {
+    "name": "마포디카포체",
+    "name_eng": "dacapo",
+    "weight": ["normal"],
+    "link": "https://www.mapo.go.kr/site/main/content/mapo04010201",
+    "git": "https://github.com/wefonts/dacapo",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/dacapo/main/dacapo.css",
+    "style": "s12"
+  },
+  {
+    "name": "마포금빛나루체",
+    "name_eng": "goldenPier",
+    "weight": ["normal"],
+    "link": "https://www.mapo.go.kr/site/main/content/mapo04010201",
+    "git": "https://github.com/wefonts/goldenPier",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/goldenPier/main/goldenPier.css",
+    "style": "s8"
+  },
+  {
+    "name": "김포평화 고딕체",
+    "name_eng": "gimpoGothic",
+    "weight": ["400", "700"],
+    "link": "https://www.gimpo.go.kr/portal/contents.do?key=6503",
+    "git": "https://github.com/wefonts/gimpoGothic",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/gimpoGothic/main/gimpoGothic.css",
+    "style": "s19"
+  },
+  {
+    "name": "김포평화 제목체",
+    "name_eng": "gimpoTitle",
+    "weight": ["normal"],
+    "link": "https://www.gimpo.go.kr/portal/contents.do?key=2688",
+    "git": "https://github.com/wefonts/gimpoTitle",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/gimpoTitle/main/gimpoTitle.css",
+    "style": "s21"
+  },
+  {
+    "name": "김포평화 바탕체",
+    "name_eng": "gimpoBatang",
+    "weight": ["normal"],
+    "link": "https://www.gimpo.go.kr/portal/contents.do?key=6502",
+    "git": "https://github.com/wefonts/gimpoBatang",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/gimpoBatang/main/gimpoBatang.css",
+    "style": "s20"
+  },
+  {
+    "name": "달서힐링체",
+    "name_eng": "healing",
+    "weight": ["500", "700"],
+    "link": "https://dalseo.daegu.kr/index.do?menu_id=00003453",
+    "git": "https://github.com/wefonts/healing",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/healing/main/healing.css",
+    "style": "s17"
+  },
+  {
+    "name": "달서달링체",
+    "name_eng": "darling",
+    "weight": ["normal"],
+    "link": "https://dalseo.daegu.kr/index.do?menu_id=00003452",
+    "git": "https://github.com/wefonts/darling",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/darling/main/darling.css",
+    "style": "s15"
+  },
+  {
+    "name": "제주돌담체",
+    "name_eng": "jejuDoldam",
+    "weight": ["normal"],
+    "link": "https://www.earlyfont.com/portfolio/EARLYFONT_JEJUDOLDAM",
+    "git": "https://github.com/wefonts/jejuDoldam",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/jejuDoldam/main/jejuDoldam.css",
+    "style": "s18"
+  },
+  {
+    "name": "레베카체",
+    "name_eng": "revecca",
+    "weight": ["normal"],
+    "link": "https://www.earlyfont.com/portfolio/EF_REBECCA",
+    "git": "https://github.com/wefonts/revecca",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/revecca/main/revecca.css",
     "style": "s3"
+  },
+  {
+    "name": "피렌체",
+    "name_eng": "firenze",
+    "weight": ["normal"],
+    "link": "https://www.earlyfont.com/portfolio/EARLYFONT_FIRENZE",
+    "git": "https://github.com/wefonts/firenze",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/firenze/main/firenze.css",
+    "style": "s8"
+  },
+  {
+    "name": "수박화체",
+    "name_eng": "waterMelon",
+    "weight": ["normal"],
+    "link": "https://www.earlyfont.com/portfolio/EARLYFONT_WATERMELON%20SALAD",
+    "git": "https://github.com/wefonts/waterMelon",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/waterMelon/main/waterMelon.css",
+    "style": "s21"
+  },
+  {
+    "name": "오이냉체",
+    "name_eng": "cucumber",
+    "weight": ["normal"],
+    "link": "https://www.earlyfont.com/portfolio/EARLYFONT_CUCUMBER%20SALAD",
+    "git": "https://github.com/wefonts/cucumber",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/cucumber/main/cucumber.css",
+    "style": "s20"
+  },
+  {
+    "name": "a1전용서체",
+    "name_eng": "a1",
+    "weight": ["normal"],
+    "link": "https://www.earlyfont.com/portfolio/EARLYFONT_A1",
+    "git": "https://github.com/wefonts/a1",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/a1/main/a1.css",
+    "style": "s1"
+  },
+  {
+    "name": "다이어리체",
+    "name_eng": "diary",
+    "weight": ["normal"],
+    "link": "https://www.earlyfont.com/portfolio/EARLYFONT_DIARY",
+    "git": "https://github.com/wefonts/diary",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/diary/main/diary.css",
+    "style": "s15"
+  },
+  {
+    "name": "위드라이브체",
+    "name_eng": "wedrive",
+    "weight": ["normal"],
+    "link": "https://www.earlyfont.com/portfolio/EARLYFONT_WEDRIVE",
+    "git": "https://github.com/wefonts/wedrive",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/wedrive/main/wedrive.css",
+    "style": "s10"
+  },
+  {
+    "name": "정신차렷체",
+    "name_eng": "wakeup",
+    "weight": ["normal"],
+    "link": "https://www.earlyfont.com/portfolio/EARLYFONT_WAKE%20UP",
+    "git": "https://github.com/wefonts/wakeup",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/wakeup/main/wakeup.css",
+    "style": "s3"
+  },
+  {
+    "name": "마초체",
+    "name_eng": "macho",
+    "weight": ["normal"],
+    "link": "https://www.earlyfont.com/portfolio/EARLYFONT_MACHO",
+    "git": "https://github.com/wefonts/macho",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/macho/main/macho.css",
+    "style": "s8"
+  },
+  {
+    "name": "유니폰트체",
+    "name_eng": "yoony",
+    "weight": ["normal"],
+    "link": "https://www.earlyfont.com/portfolio/EARLYFONT_YOONY",
+    "git": "https://github.com/wefonts/peacefull",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/yoony/main/yoony.css",
+    "style": "s13"
+  },
+  {
+    "name": "라디오 고딕체",
+    "name_eng": "ladio",
+    "weight": ["normal"],
+    "link": "https://www.earlyfont.com/portfolio/EARLYFONT_LADIO%20GO",
+    "git": "https://github.com/wefonts/ladio",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/ladio/main/ladio.css",
+    "style": "s10"
+  },
+  {
+    "name": "혀니도로롱체",
+    "name_eng": "hyunyDororong",
+    "weight": ["normal"],
+    "link": "https://www.earlyfont.com/portfolio/EARLYFONT_HYUNY%20DO",
+    "git": "https://github.com/wefonts/hyunyDororong",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/hyunyDororong/main/hyunyDororong.css",
+    "style": "s15"
+  },
+  {
+    "name": "안성탕면체",
+    "name_eng": "ansung",
+    "weight": ["normal"],
+    "link": "https://www.nongshim.com/promotion/event/view/2022/09_ansung/ansung_event",
+    "git": "https://github.com/wefonts/ansung",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/ansung/main/ansung.css",
+    "style": "s8"
+  },
+  {
+    "name": "안성탕면 ESG에코체",
+    "name_eng": "ansungESG",
+    "weight": ["normal"],
+    "link": "https://www.nongshim.com/promotion/event/view/2022/09_ansung/ansung_event",
+    "git": "https://github.com/wefonts/ansungESG",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/ansungESG/main/ansungESG.css",
+    "style": "s17"
+  },
+  {
+    "name": "생거진천체",
+    "name_eng": "saenggeo",
+    "weight": ["normal"],
+    "link": "https://www.jincheon.go.kr/home/sub.do?menukey=3837",
+    "git": "https://github.com/wefonts/saenggeo",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/saenggeo/main/saenggeo.css",
+    "style": "s13"
+  },
+  {
+    "name": "평창체",
+    "name_eng": "pyeongChang",
+    "weight": ["400", "700"],
+    "link": "https://www.pc.go.kr/portal/intro/intro-summary/pcFont",
+    "git": "https://github.com/wefonts/pyeongChang",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/pyeongChang/main/pyeongChang.css",
+    "style": "s18"
+  },
+  {
+    "name": "한림고딕체",
+    "name_eng": "hallymGothic",
+    "weight": ["400", "500", "700"],
+    "link": "https://www.hallym.or.kr/hallymuniv_sub.asp?left_menu=left_about&screen=ptp117_3_2",
+    "git": "https://github.com/wefonts/hallymGothic",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/hallymGothic/main/hallymGothic.css",
+    "style": "s5"
+  },
+  {
+    "name": "한림명조체",
+    "name_eng": "hallymMyeongjo",
+    "weight": ["400", "700"],
+    "link": "https://www.hallym.or.kr/hallymuniv_sub.asp?left_menu=left_about&screen=ptp117_3_2",
+    "git": "https://github.com/wefonts/hallymMyeongjo",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/hallymMyeongjo/main/hallymMyeongjo.css",
+    "style": "s16"
+  },
+  {
+    "name": "밀양 아리랑체",
+    "name_eng": "arirang",
+    "weight": ["400", "700"],
+    "link": "https://www.miryang.go.kr/tur/index.do?mnNo=30105000000",
+    "git": "https://github.com/wefonts/hallymMyeongjo",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/arirang/main/arirang.css",
+    "style": "s7"
+  },
+  {
+    "name": "밀양 아리랑 고딕체",
+    "name_eng": "arirangGothic",
+    "weight": ["400", "700"],
+    "link": "https://www.miryang.go.kr/tur/index.do?mnNo=30105000000",
+    "git": "https://github.com/wefonts/arirangGothic",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/arirangGothic/main/arirangGothic.css",
+    "style": "s11"
+  },
+  {
+    "name": "밀양 영남루체",
+    "name_eng": "yeongNamRu",
+    "weight": ["normal"],
+    "link": "https://www.miryang.go.kr/tur/index.do?mnNo=30105000000",
+    "git": "https://github.com/wefonts/yeongNamRu",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/yeongNamRu/main/yeongNamRu.css",
+    "style": "s3"
+  },
+  {
+    "name": "밀양 해맑은 상상체",
+    "name_eng": "sangsang",
+    "weight": ["normal"],
+    "link": "https://www.miryang.go.kr/tur/index.do?mnNo=30105000000",
+    "git": "https://github.com/wefonts/sangsang",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/sangsang/main/sangsang.css",
+    "style": "s8"
+  },
+  {
+    "name": "마이쮸체",
+    "name_eng": "mychew",
+    "weight": ["normal"],
+    "link": "none",
+    "git": "https://github.com/wefonts/mychew",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/mychew/main/mychew.css",
+    "style": "s17"
+  },
+  {
+    "name": "마비옛체",
+    "name_eng": "mabinogi",
+    "weight": ["normal"],
+    "link": "https://mabinogi.nexon.com/page/pds/font.asp",
+    "git": "https://github.com/wefonts/mabinogi",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/mabinogi/main/mabinogi.css",
+    "style": "s13"
+  },
+  {
+    "name": "우리다움체",
+    "name_eng": "wooriDaum",
+    "weight": ["300", "400", "700"],
+    "link": "https://www.woorifg.com/kor/company/ci/font/contentsid/581/index.do",
+    "git": "https://github.com/wefonts/wooriDaum",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/wooriDaum/main/wooriDaum.css",
+    "style": "s5"
+  },
+  {
+    "name": "추사사랑체",
+    "name_eng": "chusaLove",
+    "weight": ["400", "700"],
+    "link": "https://www.yesan.go.kr/kor/sub04_01_01_05.do",
+    "git": "https://github.com/wefonts/chusaLove",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/chusaLove/main/chusaLove.css",
+    "style": "s2"
+  },
+  {
+    "name": "닉스곤폰트",
+    "name_eng": "nixgonFonts",
+    "weight": ["300", "500", "700"],
+    "link": "https://sites.google.com/a/nixgon.com/sites/system/errors/ProxiedWebspaceNotFound?host=www.nixgon.com&webspace=nixgon",
+    "git": "https://github.com/wefonts/nixgonFonts",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/nixgonFonts/main/nixgonFonts.css",
+    "style": "s4"
+  },
+  {
+    "name": "국립공원 반달이체",
+    "name_eng": "bandali",
+    "weight": ["normal"],
+    "link": "https://www.knps.or.kr/portal/bandal/sub01.do",
+    "git": "https://github.com/wefonts/bandali",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/bandali/main/bandali.css",
+    "style": "s16"
+  },
+  {
+    "name": "국립공원 꼬미체",
+    "name_eng": "komi",
+    "weight": ["normal"],
+    "link": "https://www.knps.or.kr/portal/bandal/sub01.do",
+    "git": "https://github.com/wefonts/komi",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/komi/main/komi.css",
+    "style": "s20"
+  },
+  {
+    "name": "부산체",
+    "name_eng": "busan",
+    "weight": ["normal"],
+    "link": "https://www.busan.go.kr/bhbusan",
+    "git": "https://github.com/wefonts/busan",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/busan/main/busan.css",
+    "style": "s1"
+  },
+  {
+    "name": "수성돋움체",
+    "name_eng": "suseongDotum",
+    "weight": ["normal"],
+    "link": "https://www.suseong.kr/index.do?menu_id=00041081",
+    "git": "https://github.com/wefonts/suseongDotum",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/suseongDotum/main/suseongDotum.css",
+    "style": "s11"
+  },
+  {
+    "name": "수성혜정체",
+    "name_eng": "suseongHyejeong",
+    "weight": ["normal"],
+    "link": "https://www.suseong.kr/index.do?menu_id=00041061",
+    "git": "https://github.com/wefonts/suseongHyejeong",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/suseongHyejeong/main/suseongHyejeong.css",
+    "style": "s21"
+  },
+  {
+    "name": "수성바탕체",
+    "name_eng": "suseongBatang",
+    "weight": ["normal"],
+    "link": "https://www.suseong.kr/index.do?menu_id=00041080",
+    "git": "https://github.com/wefonts/suseongBatang",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/suseongBatang/main/suseongBatang.css",
+    "style": "s19"
+  },
+  {
+    "name": "김해가야체",
+    "name_eng": "gimhaeGaya",
+    "weight": ["400", "700"],
+    "link": "https://www.gimhae.go.kr/00954/01017/01027.web",
+    "git": "https://github.com/wefonts/gimhaeGaya",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/gimhaeGaya/main/gimhaeGaya.css",
+    "style": "s18"
+  },
+  {
+    "name": "ACC 어린이하늘 맑은체",
+    "name_eng": "childrenSky",
+    "weight": ["normal"],
+    "link": "https://www.acc.go.kr/main/contents.do?PID=0808",
+    "git": "https://github.com/wefonts/childrenSky",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/childrenSky/main/childrenSky.css",
+    "style": "s13"
+  },
+  {
+    "name": "ACC 어린이가을 담은체",
+    "name_eng": "childrenFall",
+    "weight": ["normal"],
+    "link": "https://www.acc.go.kr/main/contents.do?PID=0808",
+    "git": "https://github.com/wefonts/childrenFall",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/childrenFall/main/childrenFall.css",
+    "style": "s17"
+  },
+  {
+    "name": "ACC 어린이마음 고운체",
+    "name_eng": "childrenHeart",
+    "weight": ["normal"],
+    "link": "https://www.acc.go.kr/main/contents.do?PID=0808",
+    "git": "https://github.com/wefonts/childrenHeart",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/childrenHeart/main/childrenHeart.css",
+    "style": "s9"
+  },
+  {
+    "name": "해남체",
+    "name_eng": "haenam",
+    "weight": ["normal"],
+    "link": "none",
+    "git": "https://github.com/wefonts/haenam",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/haenam/main/haenam.css",
+    "style": "s20"
+  },
+  {
+    "name": "마루부리체",
+    "name_eng": "maruBuri",
+    "weight": ["200", "300", "400", "600", "700"],
+    "link": "https://hangeul.naver.com/",
+    "git": "https://github.com/wefonts/maruBuri",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/maruBuri/main/maruBuri.css",
+    "style": "s5"
+  },
+  {
+    "name": "티머니 둥근바람체",
+    "name_eng": "tmoneyRoundWind",
+    "weight": ["400", "800"],
+    "link": "https://www.tmoney.co.kr/aeb/cmnctn/ci/ci.dev",
+    "git": "https://github.com/wefonts/tmoneyRoundWind",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/tmoneyRoundWind/main/tmoneyRoundWind.css",
+    "style": "s6"
+  },
+  {
+    "name": "포천 오성과한음체",
+    "name_eng": "oseong",
+    "weight": ["400", "700"],
+    "link": "https://www.pocheon.go.kr/www/contents.do?key=5582",
+    "git": "https://github.com/wefonts/oseong",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/oseong/main/oseong.css",
+    "style": "s16"
+  },
+  {
+    "name": "포천 막걸리체",
+    "name_eng": "makgeolli",
+    "weight": ["normal"],
+    "link": "https://www.pocheon.go.kr/www/contents.do?key=5582",
+    "git": "https://github.com/wefonts/makgeolli",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/makgeolli/main/makgeolli.css",
+    "style": "s21"
+  },
+  {
+    "name": "프리텐다드",
+    "name_eng": "Pretendard",
+    "weight": ["100", "200", "300", "400", "500", "600", "700", "800", "900"],
+    "link": "https://cactus.tistory.com/306",
+    "git": "https://github.com/wefonts/Pretendard",
+    "cssUrl": "https://github.com/wefonts/Pretendard/blob/main/Pretendard.css",
+    "style": "s5"
+  },
+  {
+    "name": "순천체",
+    "name_eng": "suncheon",
+    "weight": ["400", "700"],
+    "link": "https://www.suncheon.go.kr/kr/info/0003/0001/0003/",
+    "git": "https://github.com/wefonts/suncheon",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/suncheon/main/suncheon.css",
+    "style": "s13"
+  },
+  {
+    "name": "영덕 대게체",
+    "name_eng": "snowcrab",
+    "weight": ["normal"],
+    "link": "https://www.yd.go.kr/?page_id=120264",
+    "git": "https://github.com/wefonts/snowcrab",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/snowcrab/main/snowcrab.css",
+    "style": "s8"
+  },
+  {
+    "name": "영덕 해파랑체",
+    "name_eng": "haeparang",
+    "weight": ["normal"],
+    "link": "https://www.yd.go.kr/?page_id=120264",
+    "git": "https://github.com/wefonts/haeparang",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/haeparang/main/haeparang.css",
+    "style": "s9"
+  },
+  {
+    "name": "영덕 블루로드체",
+    "name_eng": "blueroad",
+    "weight": ["normal"],
+    "link": "https://www.yd.go.kr/?page_id=120264",
+    "git": "https://github.com/wefonts/blueroad",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/blueroad/main/blueroad.css",
+    "style": "s18"
+  },
+  {
+    "name": "영덕 바다체",
+    "name_eng": "sea",
+    "weight": ["normal"],
+    "link": "https://www.yd.go.kr/?page_id=120264",
+    "git": "https://github.com/wefonts/sea",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/sea/main/sea.css",
+    "style": "s1"
+  },
+  {
+    "name": "긱블 말랑이체",
+    "name_eng": "geekble",
+    "weight": ["normal"],
+    "link": "https://malang2.geekble.kr/?utm_source=youtube&utm_medium=community&utm_campaign=malang2font#typo",
+    "git": "https://github.com/wefonts/geekble",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/geekble/main/geekble.css",
+    "style": "s13"
+  },
+  {
+    "name": "강원특별자치도체",
+    "name_eng": "gangwon",
+    "weight": ["normal"],
+    "link": "https://state.gwd.go.kr/portal/introduce/symbol/font",
+    "git": "https://github.com/wefonts/gangwon",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/saenggeo/main/saenggeo.css",
+    "style": "s10"
+  },
+  {
+    "name": "학교안심 바른돋움체",
+    "name_eng": "bareonDotum",
+    "weight": ["400", "700"],
+    "link": "https://copyright.keris.or.kr/idx",
+    "git": "https://github.com/wefonts/bareonDotum",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/saenggeo/main/saenggeo.css",
+    "style": "s19"
+  },
+  {
+    "name": "학교안심 산뜻바탕체",
+    "name_eng": "santteutBatang",
+    "weight": ["300", "500"],
+    "link": "https://copyright.keris.or.kr/idx",
+    "git": "https://github.com/wefonts/santteutBatang",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/santteutBatang/main/santteutBatang.css",
+    "style": "s21"
+  },
+  {
+    "name": "학교안심 산뜻돋움체",
+    "name_eng": "santteutDotum",
+    "weight": ["300", "500"],
+    "link": "https://copyright.keris.or.kr/idx",
+    "git": "https://github.com/wefonts/santteutDotum",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/santteutDotum/main/santteutDotum.css",
+    "style": "s17"
+  },
+  {
+    "name": "학교안심 가을소풍체",
+    "name_eng": "gaeulSopung",
+    "weight": ["300", "700"],
+    "link": "https://copyright.keris.or.kr/idx",
+    "git": "https://github.com/wefonts/gaeulSopung",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/gaeulSopung/main/gaeulSopung.css",
+    "style": "s16"
+  },
+  {
+    "name": "학교안심 맑은날체",
+    "name_eng": "malgeunNal",
+    "weight": ["500, 700"],
+    "link": "https://copyright.keris.or.kr/idx",
+    "git": "https://github.com/wefonts/malgeunNal",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/malgeunNal/main/malgeunNal.css",
+    "style": "s8"
+  },
+  {
+    "name": "학교안심 우주체",
+    "name_eng": "wooJu",
+    "weight": ["normal"],
+    "link": "https://copyright.keris.or.kr/idx",
+    "git": "https://github.com/wefonts/wooJu",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/wooJu/main/wooJu.css",
+    "style": "s18"
+  },
+  {
+    "name": "학교안심 분필체",
+    "name_eng": "bunPil",
+    "weight": ["normal"],
+    "link": "https://copyright.keris.or.kr/idx",
+    "git": "https://github.com/wefonts/bunPil",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/bunPil/main/bunPil.css",
+    "style": "s21"
+  },
+  {
+    "name": "학교안심 돌담체",
+    "name_eng": "dolDam",
+    "weight": ["300", "500", "700"],
+    "link": "https://copyright.keris.or.kr/idx",
+    "git": "https://github.com/wefonts/dolDam",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/dolDam/main/dolDam.css",
+    "style": "s12"
+  },
+  {
+    "name": "학교안심 꾸러기체",
+    "name_eng": "ggooreogi",
+    "weight": ["normal"],
+    "link": "https://copyright.keris.or.kr/idx",
+    "git": "https://github.com/wefonts/ggooreogi",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/ggooreogi/main/ggooreogi.css",
+    "style": "s9"
+  },
+  {
+    "name": "학교안심 붓펜체",
+    "name_eng": "butPen",
+    "weight": ["300", "500", "700"],
+    "link": "https://copyright.keris.or.kr/idx",
+    "git": "https://github.com/wefonts/butPen",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/butPen/main/butPen.css",
+    "style": "s16"
+  },
+  {
+    "name": "학교안심 바른바탕체",
+    "name_eng": "bareonBatang",
+    "weight": ["400", "700"],
+    "link": "https://copyright.keris.or.kr/idx",
+    "git": "https://github.com/wefonts/bareonBatang",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/bareonBatang/main/bareonBatang.css",
+    "style": "s15"
   },
   {
     "name": "",
     "name_eng": "",
     "weight": ["normal"],
-    "link": "https://www.mapo.go.kr/site/main/content/mapo04010201",
-    "git": "https://github.com/wefonts/peacefull",
-    "cssUrl": "https://raw.githubusercontent.com/wefonts/peacefull/main/peacefull.css",
-    "style": "s3"
+    "link": "https://www.jincheon.go.kr/home/sub.do?menukey=3837",
+    "git": "https://github.com/wefonts/saenggeo",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/saenggeo/main/saenggeo.css",
+    "style": ""
   },
   {
     "name": "",
     "name_eng": "",
     "weight": ["normal"],
-    "link": "https://www.mapo.go.kr/site/main/content/mapo04010201",
-    "git": "https://github.com/wefonts/peacefull",
-    "cssUrl": "https://raw.githubusercontent.com/wefonts/peacefull/main/peacefull.css",
-    "style": "s3"
+    "link": "https://www.jincheon.go.kr/home/sub.do?menukey=3837",
+    "git": "https://github.com/wefonts/saenggeo",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/saenggeo/main/saenggeo.css",
+    "style": ""
   },
   {
     "name": "",
     "name_eng": "",
     "weight": ["normal"],
-    "link": "https://www.mapo.go.kr/site/main/content/mapo04010201",
-    "git": "https://github.com/wefonts/peacefull",
-    "cssUrl": "https://raw.githubusercontent.com/wefonts/peacefull/main/peacefull.css",
-    "style": "s3"
+    "link": "https://www.jincheon.go.kr/home/sub.do?menukey=3837",
+    "git": "https://github.com/wefonts/saenggeo",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/saenggeo/main/saenggeo.css",
+    "style": ""
   },
   {
     "name": "",
     "name_eng": "",
     "weight": ["normal"],
-    "link": "https://www.mapo.go.kr/site/main/content/mapo04010201",
-    "git": "https://github.com/wefonts/peacefull",
-    "cssUrl": "https://raw.githubusercontent.com/wefonts/peacefull/main/peacefull.css",
-    "style": "s3"
+    "link": "https://www.jincheon.go.kr/home/sub.do?menukey=3837",
+    "git": "https://github.com/wefonts/saenggeo",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/saenggeo/main/saenggeo.css",
+    "style": ""
   },
   {
     "name": "",
     "name_eng": "",
     "weight": ["normal"],
-    "link": "https://www.mapo.go.kr/site/main/content/mapo04010201",
-    "git": "https://github.com/wefonts/peacefull",
-    "cssUrl": "https://raw.githubusercontent.com/wefonts/peacefull/main/peacefull.css",
-    "style": "s3"
+    "link": "https://www.jincheon.go.kr/home/sub.do?menukey=3837",
+    "git": "https://github.com/wefonts/saenggeo",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/saenggeo/main/saenggeo.css",
+    "style": ""
   },
   {
     "name": "",
     "name_eng": "",
     "weight": ["normal"],
-    "link": "https://www.mapo.go.kr/site/main/content/mapo04010201",
-    "git": "https://github.com/wefonts/peacefull",
-    "cssUrl": "https://raw.githubusercontent.com/wefonts/peacefull/main/peacefull.css",
-    "style": "s3"
+    "link": "https://www.jincheon.go.kr/home/sub.do?menukey=3837",
+    "git": "https://github.com/wefonts/saenggeo",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/saenggeo/main/saenggeo.css",
+    "style": ""
   },
   {
     "name": "",
     "name_eng": "",
     "weight": ["normal"],
-    "link": "https://www.mapo.go.kr/site/main/content/mapo04010201",
-    "git": "https://github.com/wefonts/peacefull",
-    "cssUrl": "https://raw.githubusercontent.com/wefonts/peacefull/main/peacefull.css",
-    "style": "s3"
+    "link": "https://www.jincheon.go.kr/home/sub.do?menukey=3837",
+    "git": "https://github.com/wefonts/saenggeo",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/saenggeo/main/saenggeo.css",
+    "style": ""
   },
   {
     "name": "",
     "name_eng": "",
     "weight": ["normal"],
-    "link": "https://www.mapo.go.kr/site/main/content/mapo04010201",
-    "git": "https://github.com/wefonts/peacefull",
-    "cssUrl": "https://raw.githubusercontent.com/wefonts/peacefull/main/peacefull.css",
-    "style": "s3"
+    "link": "https://www.jincheon.go.kr/home/sub.do?menukey=3837",
+    "git": "https://github.com/wefonts/saenggeo",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/saenggeo/main/saenggeo.css",
+    "style": ""
   },
   {
     "name": "",
     "name_eng": "",
     "weight": ["normal"],
-    "link": "https://www.mapo.go.kr/site/main/content/mapo04010201",
-    "git": "https://github.com/wefonts/peacefull",
-    "cssUrl": "https://raw.githubusercontent.com/wefonts/peacefull/main/peacefull.css",
-    "style": "s3"
+    "link": "https://www.jincheon.go.kr/home/sub.do?menukey=3837",
+    "git": "https://github.com/wefonts/saenggeo",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/saenggeo/main/saenggeo.css",
+    "style": ""
   },
   {
     "name": "",
     "name_eng": "",
     "weight": ["normal"],
-    "link": "https://www.mapo.go.kr/site/main/content/mapo04010201",
-    "git": "https://github.com/wefonts/peacefull",
-    "cssUrl": "https://raw.githubusercontent.com/wefonts/peacefull/main/peacefull.css",
-    "style": "s3"
+    "link": "https://www.jincheon.go.kr/home/sub.do?menukey=3837",
+    "git": "https://github.com/wefonts/saenggeo",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/saenggeo/main/saenggeo.css",
+    "style": ""
   },
   {
     "name": "",
     "name_eng": "",
     "weight": ["normal"],
-    "link": "https://www.mapo.go.kr/site/main/content/mapo04010201",
-    "git": "https://github.com/wefonts/peacefull",
-    "cssUrl": "https://raw.githubusercontent.com/wefonts/peacefull/main/peacefull.css",
-    "style": "s3"
+    "link": "https://www.jincheon.go.kr/home/sub.do?menukey=3837",
+    "git": "https://github.com/wefonts/saenggeo",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/saenggeo/main/saenggeo.css",
+    "style": ""
   },
   {
     "name": "",
     "name_eng": "",
     "weight": ["normal"],
-    "link": "https://www.mapo.go.kr/site/main/content/mapo04010201",
-    "git": "https://github.com/wefonts/peacefull",
-    "cssUrl": "https://raw.githubusercontent.com/wefonts/peacefull/main/peacefull.css",
-    "style": "s3"
+    "link": "https://www.jincheon.go.kr/home/sub.do?menukey=3837",
+    "git": "https://github.com/wefonts/saenggeo",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/saenggeo/main/saenggeo.css",
+    "style": ""
   },
   {
     "name": "",
     "name_eng": "",
     "weight": ["normal"],
-    "link": "https://www.mapo.go.kr/site/main/content/mapo04010201",
-    "git": "https://github.com/wefonts/peacefull",
-    "cssUrl": "https://raw.githubusercontent.com/wefonts/peacefull/main/peacefull.css",
-    "style": "s3"
+    "link": "https://www.jincheon.go.kr/home/sub.do?menukey=3837",
+    "git": "https://github.com/wefonts/saenggeo",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/saenggeo/main/saenggeo.css",
+    "style": ""
   },
   {
     "name": "",
     "name_eng": "",
     "weight": ["normal"],
-    "link": "https://www.mapo.go.kr/site/main/content/mapo04010201",
-    "git": "https://github.com/wefonts/peacefull",
-    "cssUrl": "https://raw.githubusercontent.com/wefonts/peacefull/main/peacefull.css",
-    "style": "s3"
+    "link": "https://www.jincheon.go.kr/home/sub.do?menukey=3837",
+    "git": "https://github.com/wefonts/saenggeo",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/saenggeo/main/saenggeo.css",
+    "style": ""
   },
   {
     "name": "",
     "name_eng": "",
     "weight": ["normal"],
-    "link": "https://www.mapo.go.kr/site/main/content/mapo04010201",
-    "git": "https://github.com/wefonts/peacefull",
-    "cssUrl": "https://raw.githubusercontent.com/wefonts/peacefull/main/peacefull.css",
-    "style": "s3"
+    "link": "https://www.jincheon.go.kr/home/sub.do?menukey=3837",
+    "git": "https://github.com/wefonts/saenggeo",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/saenggeo/main/saenggeo.css",
+    "style": ""
   },
   {
     "name": "",
     "name_eng": "",
     "weight": ["normal"],
-    "link": "https://www.mapo.go.kr/site/main/content/mapo04010201",
-    "git": "https://github.com/wefonts/peacefull",
-    "cssUrl": "https://raw.githubusercontent.com/wefonts/peacefull/main/peacefull.css",
-    "style": "s3"
+    "link": "https://www.jincheon.go.kr/home/sub.do?menukey=3837",
+    "git": "https://github.com/wefonts/saenggeo",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/saenggeo/main/saenggeo.css",
+    "style": ""
   },
   {
     "name": "",
     "name_eng": "",
     "weight": ["normal"],
-    "link": "https://www.mapo.go.kr/site/main/content/mapo04010201",
-    "git": "https://github.com/wefonts/peacefull",
-    "cssUrl": "https://raw.githubusercontent.com/wefonts/peacefull/main/peacefull.css",
-    "style": "s3"
+    "link": "https://www.jincheon.go.kr/home/sub.do?menukey=3837",
+    "git": "https://github.com/wefonts/saenggeo",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/saenggeo/main/saenggeo.css",
+    "style": ""
   },
   {
     "name": "",
     "name_eng": "",
     "weight": ["normal"],
-    "link": "https://www.mapo.go.kr/site/main/content/mapo04010201",
-    "git": "https://github.com/wefonts/peacefull",
-    "cssUrl": "https://raw.githubusercontent.com/wefonts/peacefull/main/peacefull.css",
-    "style": "s3"
+    "link": "https://www.jincheon.go.kr/home/sub.do?menukey=3837",
+    "git": "https://github.com/wefonts/saenggeo",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/saenggeo/main/saenggeo.css",
+    "style": ""
   },
   {
     "name": "",
     "name_eng": "",
     "weight": ["normal"],
-    "link": "https://www.mapo.go.kr/site/main/content/mapo04010201",
-    "git": "https://github.com/wefonts/peacefull",
-    "cssUrl": "https://raw.githubusercontent.com/wefonts/peacefull/main/peacefull.css",
-    "style": "s3"
+    "link": "https://www.jincheon.go.kr/home/sub.do?menukey=3837",
+    "git": "https://github.com/wefonts/saenggeo",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/saenggeo/main/saenggeo.css",
+    "style": ""
   },
   {
     "name": "",
     "name_eng": "",
     "weight": ["normal"],
-    "link": "https://www.mapo.go.kr/site/main/content/mapo04010201",
-    "git": "https://github.com/wefonts/peacefull",
-    "cssUrl": "https://raw.githubusercontent.com/wefonts/peacefull/main/peacefull.css",
-    "style": "s3"
+    "link": "https://www.jincheon.go.kr/home/sub.do?menukey=3837",
+    "git": "https://github.com/wefonts/saenggeo",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/saenggeo/main/saenggeo.css",
+    "style": ""
   },
   {
     "name": "",
     "name_eng": "",
     "weight": ["normal"],
-    "link": "https://www.mapo.go.kr/site/main/content/mapo04010201",
-    "git": "https://github.com/wefonts/peacefull",
-    "cssUrl": "https://raw.githubusercontent.com/wefonts/peacefull/main/peacefull.css",
-    "style": "s3"
+    "link": "https://www.jincheon.go.kr/home/sub.do?menukey=3837",
+    "git": "https://github.com/wefonts/saenggeo",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/saenggeo/main/saenggeo.css",
+    "style": ""
   },
   {
     "name": "",
     "name_eng": "",
     "weight": ["normal"],
-    "link": "https://www.mapo.go.kr/site/main/content/mapo04010201",
-    "git": "https://github.com/wefonts/peacefull",
-    "cssUrl": "https://raw.githubusercontent.com/wefonts/peacefull/main/peacefull.css",
-    "style": "s3"
+    "link": "https://www.jincheon.go.kr/home/sub.do?menukey=3837",
+    "git": "https://github.com/wefonts/saenggeo",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/saenggeo/main/saenggeo.css",
+    "style": ""
   },
   {
-    "name": "",
-    "name_eng": "",
-    "weight": ["normal"],
-    "link": "https://www.mapo.go.kr/site/main/content/mapo04010201",
-    "git": "https://github.com/wefonts/peacefull",
-    "cssUrl": "https://raw.githubusercontent.com/wefonts/peacefull/main/peacefull.css",
-    "style": "s3"
-  },
-  {
-    "name": "",
-    "name_eng": "",
-    "weight": ["normal"],
-    "link": "https://www.mapo.go.kr/site/main/content/mapo04010201",
-    "git": "https://github.com/wefonts/peacefull",
-    "cssUrl": "https://raw.githubusercontent.com/wefonts/peacefull/main/peacefull.css",
-    "style": "s3"
-  },
-  {
-    "name": "",
-    "name_eng": "",
-    "weight": ["normal"],
-    "link": "https://www.mapo.go.kr/site/main/content/mapo04010201",
-    "git": "https://github.com/wefonts/peacefull",
-    "cssUrl": "https://raw.githubusercontent.com/wefonts/peacefull/main/peacefull.css",
-    "style": "s3"
-  },
-  {
-    "name": "",
-    "name_eng": "",
-    "weight": ["normal"],
-    "link": "https://www.mapo.go.kr/site/main/content/mapo04010201",
-    "git": "https://github.com/wefonts/peacefull",
-    "cssUrl": "https://raw.githubusercontent.com/wefonts/peacefull/main/peacefull.css",
-    "style": "s3"
-  },
-  {
-    "name": "",
-    "name_eng": "",
-    "weight": ["normal"],
-    "link": "https://www.mapo.go.kr/site/main/content/mapo04010201",
-    "git": "https://github.com/wefonts/peacefull",
-    "cssUrl": "https://raw.githubusercontent.com/wefonts/peacefull/main/peacefull.css",
-    "style": "s3"
-  },
-  {
-    "name": "",
-    "name_eng": "",
-    "weight": ["normal"],
-    "link": "https://www.mapo.go.kr/site/main/content/mapo04010201",
-    "git": "https://github.com/wefonts/peacefull",
-    "cssUrl": "https://raw.githubusercontent.com/wefonts/peacefull/main/peacefull.css",
-    "style": "s3"
+    "name": "나눔바른고딕",
+    "name_eng": "nanumBarunGothic",
+    "weight": ["200", "300", "400", "700"],
+    "link": "https://hangeul.naver.com/font",
+    "git": "https://github.com/wefonts/nanumBarunGothic",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/nanumBarunGothic/main/nanumBarunGothic.css",
+    "style": ""
   }
 ]
