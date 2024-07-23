@@ -1851,205 +1851,61 @@
     "link": "https://copyright.keris.or.kr/idx",
     "git": "https://github.com/wefonts/bareonBatang",
     "cssUrl": "https://raw.githubusercontent.com/wefonts/bareonBatang/main/bareonBatang.css",
+    "style": "s17"
+  },
+  {
+    "name": "학교안심 봄방학체",
+    "name_eng": "bomBangHak",
+    "weight": ["normal"],
+    "link": "https://copyright.keris.or.kr/idx",
+    "git": "https://github.com/wefonts/bomBangHak",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/bomBangHak/main/bomBangHak.css",
     "style": "s15"
   },
   {
-    "name": "",
-    "name_eng": "",
-    "weight": ["normal"],
-    "link": "https://www.jincheon.go.kr/home/sub.do?menukey=3837",
-    "git": "https://github.com/wefonts/saenggeo",
-    "cssUrl": "https://raw.githubusercontent.com/wefonts/saenggeo/main/saenggeo.css",
-    "style": ""
+    "name": "나눔명조에코체",
+    "name_eng": "nanumMyeongjoEco",
+    "weight": ["400", "700", "800"],
+    "link": "https://hangeul.naver.com/font",
+    "git": "https://github.com/wefonts/nanumMyeongjoEco",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/nanumMyeongjoEco/main/nanumMyeongjoEco.css",
+    "style": "s5"
   },
   {
-    "name": "",
-    "name_eng": "",
-    "weight": ["normal"],
-    "link": "https://www.jincheon.go.kr/home/sub.do?menukey=3837",
-    "git": "https://github.com/wefonts/saenggeo",
-    "cssUrl": "https://raw.githubusercontent.com/wefonts/saenggeo/main/saenggeo.css",
-    "style": ""
+    "name": "자이언츠체",
+    "name_eng": "giants",
+    "weight": ["400", "700"],
+    "link": "https://www.giantsclub.com/html/?pcode=1007",
+    "git": "https://github.com/wefonts/giants",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/giants/main/giants.css",
+    "style": "s11"
   },
   {
-    "name": "",
-    "name_eng": "",
+    "name": "자이언츠 인라인체",
+    "name_eng": "giantsInline",
     "weight": ["normal"],
-    "link": "https://www.jincheon.go.kr/home/sub.do?menukey=3837",
-    "git": "https://github.com/wefonts/saenggeo",
-    "cssUrl": "https://raw.githubusercontent.com/wefonts/saenggeo/main/saenggeo.css",
-    "style": ""
+    "link": "https://www.giantsclub.com/html/?pcode=1007",
+    "git": "https://github.com/wefonts/giantsInline",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/giantsInline/main/giantsInline.css",
+    "style": "s8"
   },
   {
-    "name": "",
-    "name_eng": "",
-    "weight": ["normal"],
-    "link": "https://www.jincheon.go.kr/home/sub.do?menukey=3837",
-    "git": "https://github.com/wefonts/saenggeo",
-    "cssUrl": "https://raw.githubusercontent.com/wefonts/saenggeo/main/saenggeo.css",
-    "style": ""
+    "name": "KBO다이아고딕체",
+    "name_eng": "diaGothic",
+    "weight": ["300", "500", "700"],
+    "link": "https://www.koreabaseball.com/Reference/etc/KboFont.aspx",
+    "git": "https://github.com/wefonts/diaGothic",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/diaGothic/main/diaGothic.css",
+    "style": "s18"
   },
   {
-    "name": "",
-    "name_eng": "",
-    "weight": ["normal"],
-    "link": "https://www.jincheon.go.kr/home/sub.do?menukey=3837",
-    "git": "https://github.com/wefonts/saenggeo",
-    "cssUrl": "https://raw.githubusercontent.com/wefonts/saenggeo/main/saenggeo.css",
-    "style": ""
-  },
-  {
-    "name": "",
-    "name_eng": "",
-    "weight": ["normal"],
-    "link": "https://www.jincheon.go.kr/home/sub.do?menukey=3837",
-    "git": "https://github.com/wefonts/saenggeo",
-    "cssUrl": "https://raw.githubusercontent.com/wefonts/saenggeo/main/saenggeo.css",
-    "style": ""
-  },
-  {
-    "name": "",
-    "name_eng": "",
-    "weight": ["normal"],
-    "link": "https://www.jincheon.go.kr/home/sub.do?menukey=3837",
-    "git": "https://github.com/wefonts/saenggeo",
-    "cssUrl": "https://raw.githubusercontent.com/wefonts/saenggeo/main/saenggeo.css",
-    "style": ""
-  },
-  {
-    "name": "",
-    "name_eng": "",
-    "weight": ["normal"],
-    "link": "https://www.jincheon.go.kr/home/sub.do?menukey=3837",
-    "git": "https://github.com/wefonts/saenggeo",
-    "cssUrl": "https://raw.githubusercontent.com/wefonts/saenggeo/main/saenggeo.css",
-    "style": ""
-  },
-  {
-    "name": "",
-    "name_eng": "",
-    "weight": ["normal"],
-    "link": "https://www.jincheon.go.kr/home/sub.do?menukey=3837",
-    "git": "https://github.com/wefonts/saenggeo",
-    "cssUrl": "https://raw.githubusercontent.com/wefonts/saenggeo/main/saenggeo.css",
-    "style": ""
-  },
-  {
-    "name": "",
-    "name_eng": "",
-    "weight": ["normal"],
-    "link": "https://www.jincheon.go.kr/home/sub.do?menukey=3837",
-    "git": "https://github.com/wefonts/saenggeo",
-    "cssUrl": "https://raw.githubusercontent.com/wefonts/saenggeo/main/saenggeo.css",
-    "style": ""
-  },
-  {
-    "name": "",
-    "name_eng": "",
-    "weight": ["normal"],
-    "link": "https://www.jincheon.go.kr/home/sub.do?menukey=3837",
-    "git": "https://github.com/wefonts/saenggeo",
-    "cssUrl": "https://raw.githubusercontent.com/wefonts/saenggeo/main/saenggeo.css",
-    "style": ""
-  },
-  {
-    "name": "",
-    "name_eng": "",
-    "weight": ["normal"],
-    "link": "https://www.jincheon.go.kr/home/sub.do?menukey=3837",
-    "git": "https://github.com/wefonts/saenggeo",
-    "cssUrl": "https://raw.githubusercontent.com/wefonts/saenggeo/main/saenggeo.css",
-    "style": ""
-  },
-  {
-    "name": "",
-    "name_eng": "",
-    "weight": ["normal"],
-    "link": "https://www.jincheon.go.kr/home/sub.do?menukey=3837",
-    "git": "https://github.com/wefonts/saenggeo",
-    "cssUrl": "https://raw.githubusercontent.com/wefonts/saenggeo/main/saenggeo.css",
-    "style": ""
-  },
-  {
-    "name": "",
-    "name_eng": "",
-    "weight": ["normal"],
-    "link": "https://www.jincheon.go.kr/home/sub.do?menukey=3837",
-    "git": "https://github.com/wefonts/saenggeo",
-    "cssUrl": "https://raw.githubusercontent.com/wefonts/saenggeo/main/saenggeo.css",
-    "style": ""
-  },
-  {
-    "name": "",
-    "name_eng": "",
-    "weight": ["normal"],
-    "link": "https://www.jincheon.go.kr/home/sub.do?menukey=3837",
-    "git": "https://github.com/wefonts/saenggeo",
-    "cssUrl": "https://raw.githubusercontent.com/wefonts/saenggeo/main/saenggeo.css",
-    "style": ""
-  },
-  {
-    "name": "",
-    "name_eng": "",
-    "weight": ["normal"],
-    "link": "https://www.jincheon.go.kr/home/sub.do?menukey=3837",
-    "git": "https://github.com/wefonts/saenggeo",
-    "cssUrl": "https://raw.githubusercontent.com/wefonts/saenggeo/main/saenggeo.css",
-    "style": ""
-  },
-  {
-    "name": "",
-    "name_eng": "",
-    "weight": ["normal"],
-    "link": "https://www.jincheon.go.kr/home/sub.do?menukey=3837",
-    "git": "https://github.com/wefonts/saenggeo",
-    "cssUrl": "https://raw.githubusercontent.com/wefonts/saenggeo/main/saenggeo.css",
-    "style": ""
-  },
-  {
-    "name": "",
-    "name_eng": "",
-    "weight": ["normal"],
-    "link": "https://www.jincheon.go.kr/home/sub.do?menukey=3837",
-    "git": "https://github.com/wefonts/saenggeo",
-    "cssUrl": "https://raw.githubusercontent.com/wefonts/saenggeo/main/saenggeo.css",
-    "style": ""
-  },
-  {
-    "name": "",
-    "name_eng": "",
-    "weight": ["normal"],
-    "link": "https://www.jincheon.go.kr/home/sub.do?menukey=3837",
-    "git": "https://github.com/wefonts/saenggeo",
-    "cssUrl": "https://raw.githubusercontent.com/wefonts/saenggeo/main/saenggeo.css",
-    "style": ""
-  },
-  {
-    "name": "",
-    "name_eng": "",
-    "weight": ["normal"],
-    "link": "https://www.jincheon.go.kr/home/sub.do?menukey=3837",
-    "git": "https://github.com/wefonts/saenggeo",
-    "cssUrl": "https://raw.githubusercontent.com/wefonts/saenggeo/main/saenggeo.css",
-    "style": ""
-  },
-  {
-    "name": "",
-    "name_eng": "",
-    "weight": ["normal"],
-    "link": "https://www.jincheon.go.kr/home/sub.do?menukey=3837",
-    "git": "https://github.com/wefonts/saenggeo",
-    "cssUrl": "https://raw.githubusercontent.com/wefonts/saenggeo/main/saenggeo.css",
-    "style": ""
-  },
-  {
-    "name": "",
-    "name_eng": "",
-    "weight": ["normal"],
-    "link": "https://www.jincheon.go.kr/home/sub.do?menukey=3837",
-    "git": "https://github.com/wefonts/saenggeo",
-    "cssUrl": "https://raw.githubusercontent.com/wefonts/saenggeo/main/saenggeo.css",
-    "style": ""
+    "name": "오아고딕체",
+    "name_eng": "oaGothic",
+    "weight": ["500, 800"],
+    "link": "https://www.oa-world.com/fun.html",
+    "git": "https://github.com/wefonts/oaGothic",
+    "cssUrl": "https://raw.githubusercontent.com/wefonts/oaGothic/main/oaGothic.css",
+    "style": "s10"
   },
   {
     "name": "나눔바른고딕",
@@ -2058,6 +1914,707 @@
     "link": "https://hangeul.naver.com/font",
     "git": "https://github.com/wefonts/nanumBarunGothic",
     "cssUrl": "https://raw.githubusercontent.com/wefonts/nanumBarunGothic/main/nanumBarunGothic.css",
-    "style": ""
+    "style": "s5"
+  },
+  {
+    "name": "도파민 중독",
+    "name_eng": "NewMugung",
+    "weight": ["normal"],
+    "link": "https://www.ownglyph.com/trial/7528c8f8-a489-4a68-94d4-fae222e56202",
+    "git": "https://raw.githubusercontent.com/wefonts/OngleapDopaminJoongdok/main/OngleapDopaminJoongdok.css",
+    "style": "s7"
+  },
+  {
+    "name": "디도니",
+    "name_eng": "didoni",
+    "weight": ["normal"],
+    "link": "https://www.ownglyph.com/trial/33c60f87-4558-4554-89ff-accdec064bd2",
+    "git": "https://raw.githubusercontent.com/wefonts/Ongleapdidoni/main/Ongleapdidoni.css",
+    "style": "s10"
+  },
+  {
+    "name": "레디오 볼펜체",
+    "name_eng": "RadioBallpen",
+    "weight": ["normal"],
+    "link": "https://www.ownglyph.com/trial/25ae4803-26fa-44bb-94bc-d96c8dfad1b9",
+    "git": "https://raw.githubusercontent.com/wefonts/OngleleafRadioBallpen/main/OngleleafRadioBallpen.css",
+    "style": "s1"
+  },
+  {
+    "name": "맑은향기",
+    "name_eng": "MalgeunHyanggi",
+    "weight": ["normal"],
+    "link": "https://www.ownglyph.com/trial/471c4658-9444-43b2-b50f-c60856c98d07",
+    "git": "https://raw.githubusercontent.com/wefonts/OngleleafMalgeunHyanggi/main/OngleleafMalgeunHyanggi.css",
+    "style": "s15"
+  },
+  {
+    "name": "명숙체",
+    "name_eng": "Myungsook",
+    "weight": ["normal"],
+    "link": "https://www.ownglyph.com/trial/d14e0b36-b81e-4737-8ff7-fe523fac2d19",
+    "git": "https://raw.githubusercontent.com/wefonts/OngleleafMyungsook/main/OngleleafMyungsook.css",
+    "style": "s11"
+  },
+  {
+    "name": "박서희",
+    "name_eng": "ParkSeohee",
+    "weight": ["normal"],
+    "link": "https://www.ownglyph.com/trial/307c6df7-eda6-4768-813b-f7b0ea0fbb1f",
+    "git": "https://raw.githubusercontent.com/wefonts/OngleleafParkSeohee/main/OngleleafParkSeohee.css",
+    "style": "s2"
+  },
+  {
+    "name": "백수빈",
+    "name_eng": "BaekSubin",
+    "weight": ["normal"],
+    "link": "https://www.ownglyph.com/trial/2e709c39-17ac-4054-be3e-1a7819c4ef6b",
+    "git": "https://raw.githubusercontent.com/wefonts/OngleleafBaekSubin/main/OngleleafBaekSubin.css",
+    "style": "s12"
+  },
+  {
+    "name": "베리려원",
+    "name_eng": "BeriRyeowon",
+    "weight": ["normal"],
+    "link": "https://www.ownglyph.com/trial/60152ef6-c1e5-4359-9bb4-26f3c6457fc2",
+    "git": "https://raw.githubusercontent.com/wefonts/OngleleafBeriRyeowon/main/OngleleafBeriRyeowon.css",
+    "style": "s18"
+  },
+  {
+    "name": "부천할머니",
+    "name_eng": "BucheonGrandma",
+    "weight": ["normal"],
+    "link": "https://www.ownglyph.com/trial/e7210174-ef01-4503-81e8-7bfb0f69e869",
+    "git": "https://raw.githubusercontent.com/wefonts/OngleleafBucheonGrandma/main/OngleleafBucheonGrandma.css",
+    "style": "s10"
+  },
+  {
+    "name": "부흥규리체",
+    "name_eng": "BuhungGyuri",
+    "weight": ["normal"],
+    "link": "https://www.ownglyph.com/trial/c51e9ea8-0045-40af-a230-8334395b3a05",
+    "git": "https://github.com/wefonts/OngleleafBuhungGyuri/blob/main/OngleleafBuhungGyuri.css",
+    "style": "s8"
+  },
+  {
+    "name": "부흥니엘체",
+    "name_eng": "BuhungNiel",
+    "weight": ["normal"],
+    "link": "https://www.ownglyph.com/trial/2d57f785-d980-4c5c-bbd6-f74f01055165",
+    "git": "https://raw.githubusercontent.com/wefonts/OngleleafBuhungNiel/main/OngleleafBuhungNiel.css",
+    "style": "s9"
+  },
+  {
+    "name": "부흥대한체",
+    "name_eng": "BuhungDaehan",
+    "weight": ["normal"],
+    "link": "https://www.ownglyph.com/trial/450e7dfc-c085-4d1c-8364-5300d03e2d17",
+    "git": "https://raw.githubusercontent.com/wefonts/OngleleafBuhungDaehan/main/OngleleafBuhungDaehan.css",
+    "style": "s5"
+  },
+  {
+    "name": "부흥동건체",
+    "name_eng": "BuhungDonggeon",
+    "weight": ["normal"],
+    "link": "https://www.ownglyph.com/trial/ac200664-397c-41f6-95d8-ad59eb3a3b8c",
+    "git": "https://raw.githubusercontent.com/wefonts/OngleleafBuhungDonggeon/main/OngleleafBuhungDonggeon.css",
+    "style": "s7"
+  },
+  {
+    "name": "부흥미르체",
+    "name_eng": "BuhungMiru",
+    "weight": ["normal"],
+    "link": "https://www.ownglyph.com/trial/bc588e3f-b7c0-4522-834a-cd6e3f88225f",
+    "git": "https://raw.githubusercontent.com/wefonts/OngleleafBuhungMiru/main/OngleleafBuhungMiru.css",
+    "style": "s9"
+  },
+  {
+    "name": "부흥민재체",
+    "name_eng": "OngleleafBuhungMinJae",
+    "weight": ["normal"],
+    "link": "https://www.ownglyph.com/trial/531aa579-ffd6-4a24-936f-6cf2e80a7179",
+    "git": "https://raw.githubusercontent.com/wefonts/OngleleafBuhungMinJae/main/OngleleafBuhungMinJae.css",
+    "style": "s20"
+  },
+  {
+    "name": "부흥민하체",
+    "name_eng": "OngleleafBuhungMinHa",
+    "weight": ["normal"],
+    "link": "https://www.ownglyph.com/trial/7c28ccad-9987-4078-a35b-58caba5c0ebf",
+    "git": "https://raw.githubusercontent.com/wefonts/OngleleafBuhungMinHa/main/OngleleafBuhungMinHa.css",
+    "style": "s21"
+  },
+  {
+    "name": "부흥상호체",
+    "name_eng": "BuhungSangho",
+    "weight": ["normal"],
+    "link": "https://www.ownglyph.com/trial/8bb82a6a-2518-4fe5-807b-fb1aaea42eac",
+    "git": "https://raw.githubusercontent.com/wefonts/OngleleafBuhungMinHa/main/OngleleafBuhungMinHa.css",
+    "style": "s18"
+  },
+  {
+    "name": "부흥슬아체",
+    "name_eng": "BuhungSeulah",
+    "weight": ["normal"],
+    "link": "https://www.ownglyph.com/trial/0ddfd714-dc68-4528-a482-e17735092cac",
+    "git": "https://raw.githubusercontent.com/wefonts/OngleleafBuhungSeulah/main/OngleleafBuhungSeulah.css",
+    "style": "s10"
+  },
+  {
+    "name": "부흥성환체",
+    "name_eng": "BuhungSunghwan",
+    "weight": ["normal"],
+    "link": "https://www.ownglyph.com/trial/a0747fe1-0faf-4cc1-a49a-2302ce6a8bbd",
+    "git": "https://raw.githubusercontent.com/wefonts/OngleleafBuhungSunghwan/main/OngleleafBuhungSunghwan.css",
+    "style": "s5"
+  },
+  {
+    "name": "부흥시우체",
+    "name_eng": "BuhungSiwoo",
+    "weight": ["normal"],
+    "link": "https://www.ownglyph.com/trial/bb4ff22e-3d84-4eb8-855d-635d14c073a0",
+    "git": "https://raw.githubusercontent.com/wefonts/OngleleafBuhungSiwoo/main/OngleleafBuhungSiwoo.css",
+    "style": "s1"
+  },
+  {
+    "name": "부흥시윤체",
+    "name_eng": "BuhungSiyoon",
+    "weight": ["normal"],
+    "link": "https://www.ownglyph.com/trial/788cc2a5-be6a-40e9-9153-0cbdfd132bff",
+    "git": "https://raw.githubusercontent.com/wefonts/OngleleafBuhungSiyoon/main/OngleleafBuhungSiyoon.css",
+    "style": "s10"
+  },
+  {
+    "name": "부흥예슬체",
+    "name_eng": "BuhungYeseul",
+    "weight": ["normal"],
+    "link": "https://www.ownglyph.com/trial/a459013f-e612-454d-9881-d58f658c182a",
+    "git": "https://raw.githubusercontent.com/wefonts/OngleleafBuhungYeseul/main/OngleleafBuhungYeseul.css",
+    "style": "s20"
+  },
+  {
+    "name": "부흥예찬체",
+    "name_eng": "BuhungYechun",
+    "weight": ["normal"],
+    "link": "https://www.ownglyph.com/trial/0572898f-7a86-4abd-ad96-dc5a83e4d25c",
+    "git": "https://raw.githubusercontent.com/wefonts/OngleleafBuhungYechun/main/OngleleafBuhungYechun.css",
+    "style": "s20"
+  },
+  {
+    "name": "부흥용진체",
+    "name_eng": "BuhungYongjin",
+    "weight": ["normal"],
+    "link": "https://www.ownglyph.com/trial/81ea0b5c-ff74-4548-aa47-c600d69471f0",
+    "git": "https://raw.githubusercontent.com/wefonts/OngleleafBuhungYongjin/main/OngleleafBuhungYongjin.css",
+    "style": "s21"
+  },
+  {
+    "name": "부흥은서체",
+    "name_eng": "BuhungEunseo",
+    "weight": ["normal"],
+    "link": "https://www.ownglyph.com/trial/3c197f85-0eff-4382-b3f7-0afe3c973cc8",
+    "git": "https://raw.githubusercontent.com/wefonts/OngleleafBuhungEunseo/main/OngleleafBuhungEunseo.css",
+    "style": "s21"
+  },
+  {
+    "name": "부흥은찬체",
+    "name_eng": "BuhungEunchan",
+    "weight": ["normal"],
+    "link": "https://www.ownglyph.com/trial/5377b93a-5d24-4e79-a1f7-1365bdd10fc5",
+    "git": "https://raw.githubusercontent.com/wefonts/OngleleafBuhungEunchan/main/OngleleafBuhungEunchan.css",
+    "style": "s16"
+  },
+  {
+    "name": "부흥인성체",
+    "name_eng": "BuhungInseong",
+    "weight": ["normal"],
+    "link": "https://www.ownglyph.com/trial/bfddddac-bf8f-4318-a23a-286ab8a93602",
+    "git": "https://raw.githubusercontent.com/wefonts/OngleleafBuhungInseong/main/OngleleafBuhungInseong.css",
+    "style": "s12"
+  },
+  {
+    "name": "부흥재율체",
+    "name_eng": "BuhungJaeyul",
+    "weight": ["normal"],
+    "link": "https://www.ownglyph.com/trial/6e21e302-1744-4a68-bbb1-8c1a13c2ece6",
+    "git": "https://raw.githubusercontent.com/wefonts/OngleleafBuhungJaeyul/main/OngleleafBuhungJaeyul.css",
+    "style": "s19"
+  },
+  {
+    "name": "부흥종진체",
+    "name_eng": "BuhungJongjin",
+    "weight": ["normal"],
+    "link": "https://www.ownglyph.com/trial/56f8e60d-a282-475d-af6b-7538bf5dbb15",
+    "git": "https://raw.githubusercontent.com/wefonts/OngleleafBuhungJongjin/main/OngleleafBuhungJongjin.css",
+    "style": "s19"
+  },
+  {
+    "name": "부흥주원체",
+    "name_eng": "BuhungJuwon",
+    "weight": ["normal"],
+    "link": "https://www.ownglyph.com/trial/6b5e8527-6ed9-4c58-a8b4-1064132c20ba",
+    "git": "https://raw.githubusercontent.com/wefonts/OngleleafBuhungJuwon/main/OngleleafBuhungJuwon.css",
+    "style": "s3"
+  },
+  {
+    "name": "부흥지영체",
+    "name_eng": "BuhungJiyoung",
+    "weight": ["normal"],
+    "link": "https://www.ownglyph.com/trial/f1094a0a-26d3-4449-993a-108d90270cf7",
+    "git": "https://raw.githubusercontent.com/wefonts/OngleleafBuhungJiyoung/main/OngleleafBuhungJiyoung.css",
+    "style": "s1"
+  },
+  {
+    "name": "부흥지혜쌤체",
+    "name_eng": "JihyeSaem",
+    "weight": ["normal"],
+    "link": "https://www.ownglyph.com/trial/c32d1b38-6bae-4b41-9003-6c6a744b6b7c",
+    "git": "https://raw.githubusercontent.com/wefonts/OngleleafBuhungJihyeSaem/main/OngleleafBuhungJihyeSaem.css",
+    "style": "s4"
+  },
+  {
+    "name": "부흥진우케이체",
+    "name_eng": "JinwooKEI",
+    "weight": ["normal"],
+    "link": "https://www.ownglyph.com/trial/d60c3223-74f9-4880-892b-15966f46b972",
+    "git": "https://raw.githubusercontent.com/wefonts/OngleleafBuhungJinwooKEI/main/OngleleafBuhungJinwooKEI.css",
+    "style": "s9"
+  },
+  {
+    "name": "부흥태득체",
+    "name_eng": "BuhungTaedeuk",
+    "weight": ["normal"],
+    "link": "https://www.ownglyph.com/trial/eab71f06-f2b8-4234-b3c4-e0bead759e2a",
+    "git": "https://raw.githubusercontent.com/wefonts/OngleleafBuhungTaedeuk/main/OngleleafBuhungTaedeuk.css",
+    "style": "s7"
+  },
+  {
+    "name": "부흥현규체",
+    "name_eng": "BuhungHyungyu",
+    "weight": ["normal"],
+    "link": "https://www.ownglyph.com/trial/fd9624f7-ce06-4032-bba5-a27cf49ffd16",
+    "git": "https://raw.githubusercontent.com/wefonts/OngleleafBuhungHyungyu/main/OngleleafBuhungHyungyu.css",
+    "style": "s13"
+  },
+  {
+    "name": "부흥현수체",
+    "name_eng": "BuhungHyunsu",
+    "weight": ["normal"],
+    "link": "https://www.ownglyph.com/trial/66384e29-c275-44b0-9be2-4abda7c749e0",
+    "git": "https://raw.githubusercontent.com/wefonts/OngleleafBuhungHyunsu/main/OngleleafBuhungHyunsu.css",
+    "style": "s11"
+  },
+  {
+    "name": "부흥호준체",
+    "name_eng": "BuhungHojun",
+    "weight": ["normal"],
+    "link": "https://www.ownglyph.com/trial/0dccaa74-fb46-4208-97eb-26c3b3b748b7",
+    "git": "https://raw.githubusercontent.com/wefonts/OngleleafBuhungHojun/main/OngleleafBuhungHojun.css",
+    "style": "s14"
+  },
+  {
+    "name": "부흥효미체",
+    "name_eng": "BuhungHyomi",
+    "weight": ["normal"],
+    "link": "https://www.ownglyph.com/trial/8f90f552-2d87-4ed8-b444-cb7db2004100",
+    "git": "https://raw.githubusercontent.com/wefonts/OngleleafBuhungHyomi/main/OngleleafBuhungHyomi.css",
+    "style": "s18"
+  },
+  {
+    "name": "상희체",
+    "name_eng": "Sanghee",
+    "weight": ["normal"],
+    "link": "https://www.ownglyph.com/trial/bf07f087-dc53-4948-a0ff-61d216a0a744",
+    "git": "https://raw.githubusercontent.com/wefonts/OngleleafSanghee/main/OngleleafSanghee.css",
+    "style": "s13"
+  },
+  {
+    "name": "선시우체",
+    "name_eng": "SeonSiwoo",
+    "weight": ["normal"],
+    "link": "https://www.ownglyph.com/trial/404e3959-e934-40f0-8dbe-1e510c791b47",
+    "git": "https://raw.githubusercontent.com/wefonts/OngleleafSeonSiwoo/main/OngleleafSeonSiwoo.css",
+    "style": "s15"
+  },
+  {
+    "name": "설영체",
+    "name_eng": "Seolyoung",
+    "weight": ["normal"],
+    "link": "https://www.ownglyph.com/trial/53eebb3f-67d2-4e92-89d1-43c87e01bdd7",
+    "git": "https://raw.githubusercontent.com/wefonts/OngleleafSeolyoung/main/OngleleafSeolyoung.css",
+    "style": "s12"
+  },
+  {
+    "name": "성은쌤체",
+    "name_eng": "SeongEunSaem",
+    "weight": ["normal"],
+    "link": "https://www.ownglyph.com/trial/bbf2726a-4a51-4dac-87f4-80c31f8e5c9f",
+    "git": "https://raw.githubusercontent.com/wefonts/OngleleafSeongEunSaem/main/OngleleafSeongEunSaem.css",
+    "style": "s2"
+  },
+  {
+    "name": "성희",
+    "name_eng": "Sunghui",
+    "weight": ["normal"],
+    "link": "https://www.ownglyph.com/trial/7a8cf2d1-15a7-46c8-8bbc-576bae656c7d",
+    "git": "https://raw.githubusercontent.com/wefonts/OngleleafSunghui/main/OngleleafSunghui.css",
+    "style": "s21"
+  },
+  {
+    "name": "소망체",
+    "name_eng": "Somang",
+    "weight": ["normal"],
+    "link": "https://www.ownglyph.com/trial/a1ab9b57-7b72-4c2a-a49d-b7ce66b4a465",
+    "git": "https://raw.githubusercontent.com/wefonts/OngleleafSomang/main/OngleleafSomang.css",
+    "style": "s20"
+  },
+  {
+    "name": "소진체",
+    "name_eng": "Sojin",
+    "weight": ["normal"],
+    "link": "https://www.ownglyph.com/trial/392d4b21-3b27-4d46-a3a6-d3e2ad1c623f",
+    "git": "https://raw.githubusercontent.com/wefonts/OngleleafSojin/main/OngleleafSojin.css",
+    "style": "s13"
+  },
+  {
+    "name": "수경체",
+    "name_eng": "Sugyeong",
+    "weight": ["normal"],
+    "link": "https://www.ownglyph.com/trial/7a3cd05d-bf49-43c3-8b59-9731624a67be",
+    "git": "https://raw.githubusercontent.com/wefonts/OngleleafSugyeong/main/OngleleafSugyeong.css",
+    "style": "s15"
+  },
+  {
+    "name": "스프",
+    "name_eng": "Soup",
+    "weight": ["normal"],
+    "link": "https://www.ownglyph.com/trial/9b7fe0f2-9930-4eeb-a66f-5e2fedb3b7a2",
+    "git": "https://raw.githubusercontent.com/wefonts/OngleleafSoup/main/OngleleafSoup.css",
+    "style": "s5"
+  },
+  {
+    "name": "신예빈",
+    "name_eng": "ShinYebin",
+    "weight": ["normal"],
+    "link": "https://www.ownglyph.com/trial/d4dab880-9397-4227-9920-b9a63716e50f",
+    "git": "https://raw.githubusercontent.com/wefonts/OwnglyphShinYebin/main/OwnglyphShinYebin.css",
+    "style": "s20"
+  },
+  {
+    "name": "신예빈",
+    "name_eng": "ShinYebin",
+    "weight": ["normal"],
+    "link": "https://www.ownglyph.com/trial/d4dab880-9397-4227-9920-b9a63716e50f",
+    "git": "https://raw.githubusercontent.com/wefonts/OwnglyphShinYebin/main/OwnglyphShinYebin.css",
+    "style": "s16"
+  },
+  {
+    "name": "신유원",
+    "name_eng": "ShinYuWon",
+    "weight": ["normal"],
+    "link": "https://www.ownglyph.com/trial/7f31c84a-e524-40c4-ac9f-cf009d46ebba",
+    "git": "https://raw.githubusercontent.com/wefonts/OngleleafShinYuWon/main/OngleleafShinYuWon.css",
+    "style": "s16"
+  },
+  {
+    "name": "신호성체",
+    "name_eng": "ShinHoseong",
+    "weight": ["normal"],
+    "link": "https://www.ownglyph.com/trial/aa3d5feb-e55e-4178-a62d-d2317589e333",
+    "git": "https://raw.githubusercontent.com/wefonts/OngleleafShinHoseong/main/OngleleafShinHoseong.css",
+    "style": "s16"
+  },
+  {
+    "name": "아인이",
+    "name_eng": "Aini",
+    "weight": ["normal"],
+    "link": "https://www.ownglyph.com/trial/9e342a50-5e4f-4e3a-8cab-af07203790be",
+    "git": "https://raw.githubusercontent.com/wefonts/OngleleafAini/main/OngleleafAini.css",
+    "style": "s2"
+  },
+  {
+    "name": "앨리스탠다드",
+    "name_eng": "AliceStandard",
+    "weight": ["normal"],
+    "link": "https://www.ownglyph.com/trial/6fc20123-db3d-4b56-a7d2-091cd430f94c",
+    "git": "https://raw.githubusercontent.com/wefonts/OngleleafAliceStandard/main/OngleleafAliceStandard.css",
+    "style": "s7"
+  },
+  {
+    "name": "앵그리수미",
+    "name_eng": "AngrySoomi",
+    "weight": ["normal"],
+    "link": "https://www.ownglyph.com/trial/c28e64f5-b3c2-45ad-93a6-228573e5dc9d",
+    "git": "https://raw.githubusercontent.com/wefonts/OngleleafAngrySoomi/main/OngleleafAngrySoomi.css",
+    "style": "s3"
+  },
+  {
+    "name": "양지혜체",
+    "name_eng": "YangJihye",
+    "weight": ["normal"],
+    "link": "https://www.ownglyph.com/trial/f1e0a5f4-be11-4702-a897-91285ebb847b",
+    "git": "https://raw.githubusercontent.com/wefonts/OngleleafYangJihye/main/OngleleafYangJihye.css",
+    "style": "s8"
+  },
+  {
+    "name": "양호",
+    "name_eng": "Yangho",
+    "weight": ["normal"],
+    "link": "https://www.ownglyph.com/trial/6643c08a-c3a3-495d-af9e-5014a1ed9f56",
+    "git": "https://raw.githubusercontent.com/wefonts/OngleleafYangho/main/OngleleafYangho.css",
+    "style": "s4"
+  },
+  {
+    "name": "영근",
+    "name_eng": "Younggeun",
+    "weight": ["normal"],
+    "link": "https://www.ownglyph.com/trial/4a16e2c1-4848-4ca2-9dd0-7761d4b2d1d7",
+    "git": "https://raw.githubusercontent.com/wefonts/OngleleafYounggeun/main/OngleleafYounggeun.css",
+    "style": "s9"
+  },
+  {
+    "name": "예지927",
+    "name_eng": "Yeji927",
+    "weight": ["normal"],
+    "link": "https://www.ownglyph.com/trial/458913bf-5ec8-4c70-9a10-143dea6355f7",
+    "git": "https://raw.githubusercontent.com/wefonts/OngleleafYeji927/main/OngleleafYeji927.css",
+    "style": "s10"
+  },
+  {
+    "name": "요섭",
+    "name_eng": "Yoseop",
+    "weight": ["normal"],
+    "link": "https://www.ownglyph.com/trial/4df87f4a-8b1c-4907-a7a2-c0a3b72019d2",
+    "git": "https://raw.githubusercontent.com/wefonts/OngleleafYoseop/main/OngleleafYoseop.css",
+    "style": "s21"
+  },
+  {
+    "name": "우리집 여름이체",
+    "name_eng": "OurHouseSummer",
+    "weight": ["normal"],
+    "link": "https://www.ownglyph.com/trial/a1bae455-fd25-48d9-8bc7-9c98e89b9f1d",
+    "git": "https://raw.githubusercontent.com/wefonts/OngleleafOurHouseSummer/main/OngleleafOurHouseSummer.css",
+    "style": "s20"
+  },
+  {
+    "name": "은영체",
+    "name_eng": "Eunyeong",
+    "weight": ["normal"],
+    "link": "https://www.ownglyph.com/trial/0c8c1f58-d6d0-408b-8a49-8377d730bb3b",
+    "git": "https://raw.githubusercontent.com/wefonts/OngleleafEunyeong/main/OngleleafEunyeong.css",
+    "style": "s12"
+  },
+  {
+    "name": "윤지는유니",
+    "name_eng": "Yunjinisuni",
+    "weight": ["normal"],
+    "link": "https://www.ownglyph.com/trial/0c8c1f58-d6d0-408b-8a49-8377d730bb3b",
+    "git": "https://raw.githubusercontent.com/wefonts/OngleleafYunjinisuni.css/main/OngleleafYunjinisuni.css",
+    "style": "s21"
+  },
+  {
+    "name": "의진체",
+    "name_eng": "Uijin",
+    "weight": ["normal"],
+    "link": "https://www.ownglyph.com/trial/53740d73-e2a5-46a9-a4d3-73c9164de321",
+    "git": "https://raw.githubusercontent.com/wefonts/OngleleafUijin/main/OngleleafUijin.css",
+    "style": "s21"
+  },
+  {
+    "name": "이빈나",
+    "name_eng": "IBinna",
+    "weight": ["normal"],
+    "link": "https://www.ownglyph.com/trial/c492918d-c159-472e-b387-a734fbfb87be",
+    "git": "https://raw.githubusercontent.com/wefonts/OngleleafIBinna/main/OngleleafIBinna.css",
+    "style": "s1"
+  },
+  {
+    "name": "이선호",
+    "name_eng": "LeeSunho",
+    "weight": ["normal"],
+    "link": "https://www.ownglyph.com/trial/a07646dc-3340-4c0e-b0b7-7527e08c37a0",
+    "git": "https://raw.githubusercontent.com/wefonts/OngleleafLeeSunho/main/OngleleafLeeSunho.css",
+    "style": "s13"
+  },
+  {
+    "name": "이순영손글씨",
+    "name_eng": "LeeSunyeongwriting",
+    "weight": ["normal"],
+    "link": "https://www.ownglyph.com/trial/b36ceb30-9e62-4e17-92f1-207f73a5a2e5",
+    "git": "https://raw.githubusercontent.com/wefonts/OngleleafLeeSunyeongHandwriting/main/OngleleafLeeSunyeongHandwriting.css",
+    "style": "s18"
+  },
+  {
+    "name": "이지 볼드",
+    "name_eng": "EasyBold",
+    "weight": ["normal"],
+    "link": "https://www.ownglyph.com/trial/f9914050-0157-4445-8ed7-31d5167e9b87",
+    "git": "https://raw.githubusercontent.com/wefonts/OngleleafEasyBold/main/OngleleafEasyBold.css",
+    "style": "s8"
+  },
+  {
+    "name": "이현",
+    "name_eng": "LeeHyun",
+    "weight": ["normal"],
+    "link": "https://www.ownglyph.com/trial/1a6e2822-90a9-4ff7-a8d7-1b4300db66f1",
+    "git": "https://raw.githubusercontent.com/wefonts/OngleleafLeeHyun/main/OngleleafLeeHyun.css",
+    "style": "s3"
+  },
+  {
+    "name": "작가성재현",
+    "name_eng": "JakkaSungJaehyun",
+    "weight": ["normal"],
+    "link": "https://www.ownglyph.com/trial/73c43ddd-956f-4a4a-85c6-8540d242d029",
+    "git": "https://raw.githubusercontent.com/wefonts/OngleleafJakkaSungJaehyun/main/OngleleafJakkaSungJaehyun.css",
+    "style": "s5"
+  },
+  {
+    "name": "장칼체",
+    "name_eng": "Jangkal",
+    "weight": ["normal"],
+    "link": "https://www.ownglyph.com/trial/3eb4feab-e987-4afd-8c32-b3ff4f3ecaea",
+    "git": "https://raw.githubusercontent.com/wefonts/OngleleafJangkal/main/OngleleafJangkal.css",
+    "style": "s9"
+  },
+  {
+    "name": "재건사",
+    "name_eng": "JaegunSa",
+    "weight": ["normal"],
+    "link": "https://www.ownglyph.com/trial/2ba4dffc-0892-45c7-af57-2259e2830714",
+    "git": "https://raw.githubusercontent.com/wefonts/OngleleafJaegunSa/main/OngleleafJaegunSa.css",
+    "style": "s19"
+  },
+  {
+    "name": "정여사",
+    "name_eng": "JeongYeosa",
+    "weight": ["normal"],
+    "link": "https://www.ownglyph.com/trial/ef7e8175-b5a1-48ea-ac88-8b0a6c56e80a",
+    "git": "https://raw.githubusercontent.com/wefonts/OngleleafJeongYeosa/main/OngleleafJeongYeosa.css",
+    "style": "s11"
+  },
+  {
+    "name": "정지우",
+    "name_eng": "JeongJiwoo",
+    "weight": ["normal"],
+    "link": "https://www.ownglyph.com/trial/9aedd6c8-05eb-443d-a0b9-b1b412589970",
+    "git": "https://raw.githubusercontent.com/wefonts/OngleleafJeongJiwoo/main/OngleleafJeongJiwoo.css",
+    "style": "s1"
+  },
+  {
+    "name": "제이앤비",
+    "name_eng": "JandB",
+    "weight": ["normal"],
+    "link": "https://www.ownglyph.com/trial/692cffa9-220b-4392-a140-83f479c31f96",
+    "git": "https://raw.githubusercontent.com/wefonts/OngleleafJandB/main/OngleleafJandB.css",
+    "style": "s20"
+  },
+  {
+    "name": "주리글씨",
+    "name_eng": "Jurigeulssi",
+    "weight": ["normal"],
+    "link": "https://www.ownglyph.com/trial/4255cda1-3ca0-4d6f-b8be-56c278c352ee",
+    "git": "https://raw.githubusercontent.com/wefonts/OngleapJurigeulssi/main/OngleapJurigeulssi.css",
+    "style": "s14"
+  },
+  {
+    "name": "주혜",
+    "name_eng": "Juhye",
+    "weight": ["normal"],
+    "link": "https://www.ownglyph.com/trial/8bb82d2e-5cd4-49c5-afba-cf08276e578b",
+    "git": "https://raw.githubusercontent.com/wefonts/OngleapJuhye/main/OngleapJuhye.css",
+    "style": "s16"
+  },
+  {
+    "name": "진팔이 볼드",
+    "name_eng": "JinpaliBold",
+    "weight": ["normal"],
+    "link": "https://www.ownglyph.com/trial/b16ac52e-ff0f-4188-bc0e-627c37a5b937",
+    "git": "https://raw.githubusercontent.com/wefonts/OngleapJinpaliBold/main/OngleapJinpaliBold.css",
+    "style": "s16"
+  },
+  {
+    "name": "쿤도체",
+    "name_eng": "Kundo",
+    "weight": ["normal"],
+    "link": "https://www.ownglyph.com/trial/9ba12d0e-6579-40c9-b72d-770fcad855a1",
+    "git": "https://raw.githubusercontent.com/wefonts/OngleapKundo/main/OngleapKundo.css",
+    "style": "s13"
+  },
+  {
+    "name": "한지우체",
+    "name_eng": "Hanjiooche",
+    "weight": ["normal"],
+    "link": "https://www.ownglyph.com/trial/b4e9d598-c8e8-452d-97b8-5cd52c060ec3",
+    "git": "https://raw.githubusercontent.com/wefonts/OngleapHanjiooche/main/OngleapHanjiooche.css",
+    "style": "s8"
+  },
+  {
+    "name": "현자체",
+    "name_eng": "Hyeonja",
+    "weight": ["normal"],
+    "link": "https://www.ownglyph.com/trial/9d39e7f4-7d52-46ae-ab47-65ee9e41fdd8",
+    "git": "https://raw.githubusercontent.com/wefonts/OngleapHyeonja/main/OngleapHyeonja.css",
+    "style": "s6"
+  },
+  {
+    "name": "효린체",
+    "name_eng": "Hyorin",
+    "weight": ["normal"],
+    "link": "https://www.ownglyph.com/trial/e85cc319-082d-4760-b218-9f3c18c158c3",
+    "git": "https://raw.githubusercontent.com/wefonts/OngleapHyorin/main/OngleapHyorin.css",
+    "style": "s19"
+  },
+  {
+    "name": "로보토",
+    "name_eng": "Roboto",
+    "weight": [
+      {
+        "name": "normal",
+        "value": "400"
+      },
+      {
+        "name": "bold",
+        "value": "700"
+      },
+      {
+        "name": "bolder",
+        "value": "relative"
+      },
+      {
+        "name": "lighter",
+        "value": "relative"
+      },
+      {
+        "name": "thin",
+        "value": "100"
+      },
+      {
+        "name": "extra light",
+        "value": "200"
+      },
+      {
+        "name": "light",
+        "value": "300"
+      },
+      {
+        "name": "medium",
+        "value": "500"
+      },
+      {
+        "name": "semi bold",
+        "value": "600"
+      },
+      {
+        "name": "extra bold",
+        "value": "800"
+      },
+      {
+        "name": "black",
+        "value": "900"
+      }
+    ],
+    "link": "https://fonts.google.com/specimen/Roboto?query=Roboto",
+    "git": "https://raw.githubusercontent.com/wefonts/Roboto/main/Roboto.css",
+    "style": "s19"
   }
 ]
